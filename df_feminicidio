@@ -1,0 +1,1054 @@
+"ANO_BO","DATAOCORRENCIA","HORAOCORRENCIA","FLAGRANTE","CIDADE","UF","DESCRICAOLOCAL","RUBRICA","STATUS","VITIMAFATAL","SEXO","IDADE","ESTADOCIVIL","GRAUINSTRUCAO","CORCUTIS","RELACIONAMENTO"
+2019,"31/12/2019",17:09:00,"Sim","LIMEIRA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",28,"Solteiro","Superior completo","Branca","UNIAO ESTAVEL"
+2020,"03/01/2020",18:03:00,"Não","CAMPINAS","SP","Escritório","Violência Doméstica","Consumado","Sim","Feminino",29,"Ignorado",NA,"Branca","UNIAO ESTAVEL"
+2020,"03/01/2020",18:03:00,"Não","CAMPINAS","SP","Escritório","Suicídio consumado","Consumado","Sim","Masculino",40,"Solteiro",NA,"Branca","UNIAO ESTAVEL"
+2020,"03/01/2020",18:03:00,"Não","CAMPINAS","SP","Escritório","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",29,"Ignorado",NA,"Branca","UNIAO ESTAVEL"
+2020,"03/01/2020",23:23:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",28,"União Estável","Superior completo","Branca",NA
+2020,"08/01/2020",13:35:00,"Sim","S.JOAQUIM DA BARRA","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",23,"Casado",NA,"Parda","CASAMENTO"
+2020,"08/01/2020",13:35:00,"Sim","S.JOAQUIM DA BARRA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",23,"Casado",NA,"Parda","CASAMENTO"
+2020,"09/01/2020",06:15:00,"Não","OSASCO","SP","Residência","Localização/Apreensão de objeto","Consumado",NA,NA,NA,NA,NA,NA,NA
+2020,"09/01/2020",06:15:00,"Não","OSASCO","SP","Residência","Suicídio consumado","Consumado","Sim","Masculino",31,"Ignorado",NA,"Parda","ENVOLVIMENTO AMOROSO"
+2020,"09/01/2020",06:15:00,"Não","OSASCO","SP","Residência","Suicídio consumado","Consumado","Sim","Feminino",31,"Ignorado","2 Grau completo","Branca","ENVOLVIMENTO AMOROSO"
+2020,"09/01/2020",06:15:00,"Não","OSASCO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",31,"Ignorado",NA,"Parda","ENVOLVIMENTO AMOROSO"
+2020,"09/01/2020",06:15:00,"Não","OSASCO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",31,"Ignorado","2 Grau completo","Branca","ENVOLVIMENTO AMOROSO"
+2020,"13/01/2020",14:10:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",29,NA,NA,"Parda",NA
+2020,"14/01/2020",NA,"Não","S.JOSE DOS CAMPOS","SP","Residência","Violência Doméstica","Consumado","Sim","Masculino",64,"Casado",NA,"Branca","CASAMENTO"
+2020,"14/01/2020",NA,"Não","S.JOSE DOS CAMPOS","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",57,"Casado",NA,"Parda","CASAMENTO"
+2020,"14/01/2020",NA,"Não","S.JOSE DOS CAMPOS","SP","Residência","Suicídio consumado","Consumado","Sim","Masculino",64,"Casado",NA,"Branca","CASAMENTO"
+2020,"14/01/2020",NA,"Não","S.JOSE DOS CAMPOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",57,"Casado",NA,"Parda","CASAMENTO"
+2020,"25/01/2020",07:00:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",21,"Solteiro","2 Grau completo","Branca",NA
+2020,"25/01/2020",07:00:00,"Não","S.PAULO","SP","Residência","Furto (art. 155) - TRANSEUNTE","Consumado",NA,NA,NA,NA,NA,NA,NA
+2020,"27/01/2020",06:00:00,"Sim","BROTAS","SP","Unidade rural","Suicídio tentado","Tentado",NA,NA,NA,NA,NA,NA,NA
+2020,"27/01/2020",06:00:00,"Sim","BROTAS","SP","Unidade rural","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",49,"Divorciado","1 Grau incompleto","Branca",NA
+2020,"27/01/2020",06:00:00,"Sim","BROTAS","SP","Unidade rural","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",56,NA,NA,"Branca",NA
+2020,"28/01/2020",05:36:00,"Não","MARILIA","SP","Via pública","Suicídio consumado","Consumado","Sim","Masculino",40,"Solteiro",NA,"Branca",NA
+2020,"28/01/2020",05:36:00,"Não","MARILIA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",35,"Casado",NA,"Branca",NA
+2020,"29/01/2020",10:55:00,"Não","S.PAULO","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",27,"Solteiro",NA,"Parda","UNIAO ESTAVEL"
+2020,"29/01/2020",10:55:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",27,"Solteiro",NA,"Parda","UNIAO ESTAVEL"
+2020,"02/02/2020",17:20:00,"Sim","FRANCA","SP","Lazer e recreação","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",28,"Solteiro","2 Grau completo","Branca","ENVOLVIMENTO AMOROSO"
+2020,"24/01/2020",08:25:00,"Não","MOCOCA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",44,"Casado",NA,"Branca",NA
+2020,"08/02/2020",01:04:00,"Sim","PINDAMONHANGABA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",30,"Solteiro",NA,"Parda",NA
+2020,"10/02/2020",01:05:00,"Sim","CARAPICUIBA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",22,"Solteiro",NA,"Preta",NA
+2020,"13/02/2020",09:00:00,"Não","S.PAULO","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",27,"Solteiro",NA,"Parda","UNIAO ESTAVEL"
+2020,"13/02/2020",09:00:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",27,"Solteiro",NA,"Parda","UNIAO ESTAVEL"
+2020,"09/02/2020",19:37:00,"Sim","ITAPORANGA","SP","Rodovia/Estrada","Violência Doméstica","Consumado","Sim","Feminino",26,"União Estável","1 Grau completo","Branca","UNIAO ESTAVEL"
+2020,"09/02/2020",19:37:00,"Sim","ITAPORANGA","SP","Rodovia/Estrada","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",26,"União Estável","1 Grau completo","Branca","UNIAO ESTAVEL"
+2020,"09/02/2020",19:37:00,"Sim","ITAPORANGA","SP","Rodovia/Estrada","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",26,"União Estável","1 Grau completo","Branca","UNIAO ESTAVEL"
+2020,"09/02/2020",19:37:00,"Sim","ITAPORANGA","SP","Rodovia/Estrada","Lesão corporal (art. 129)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2020,"15/02/2020",14:15:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",23,"Solteiro",NA,"Parda",NA
+2020,"16/02/2020",23:40:00,"Não","ITU","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",29,"Solteiro",NA,"Branca","UNIAO ESTAVEL"
+2020,"16/02/2020",23:40:00,"Não","ITU","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",29,"Solteiro",NA,"Branca","UNIAO ESTAVEL"
+2020,"08/02/2020",00:00:00,"Sim","JABOTICABAL","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",51,"Casado","2 Grau incompleto","Branca","UNIAO ESTAVEL"
+2020,"08/02/2020",00:00:00,"Sim","JABOTICABAL","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",51,"Casado","2 Grau incompleto","Branca","UNIAO ESTAVEL"
+2020,"08/02/2020",00:00:00,"Sim","JABOTICABAL","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",51,"Casado","2 Grau incompleto","Branca","UNIAO ESTAVEL"
+2020,"08/02/2020",00:00:00,"Sim","JABOTICABAL","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",51,"Casado","2 Grau incompleto","Branca","UNIAO ESTAVEL"
+2020,"08/02/2020",00:00:00,"Sim","JABOTICABAL","SP","Residência","Destruição, subtração ou ocultação de cadáver (art. 211)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2020,"08/02/2020",00:00:00,"Sim","JABOTICABAL","SP","Residência","Incêndio (art. 250, caput)","Consumado","Sim","Feminino",51,"Casado","2 Grau incompleto","Branca","UNIAO ESTAVEL"
+2020,"19/04/2019",11:52:00,"Não","MIRANDOPOLIS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",35,"Divorciado",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2020,"19/02/2020",12:46:00,"Não","JUNDIAI","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",42,"Solteiro",NA,"Parda",NA
+2020,"19/02/2020",12:46:00,"Não","JUNDIAI","SP","Via pública","Homicídio simples (art. 121)","Consumado","Sim","Feminino",42,"Solteiro",NA,"Parda",NA
+2020,"19/02/2020",10:30:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",32,"Ignorado",NA,"Parda",NA
+2020,"21/02/2020",07:20:00,"Não","S.PAULO","SP","Via pública","Aborto provocado por terceiro SEM o consentimento da gestante (art. 125)","Consumado","Sim","Feminino",24,"Solteiro",NA,"Parda",NA
+2020,"21/02/2020",07:20:00,"Não","S.PAULO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",24,"Solteiro",NA,"Parda",NA
+2020,"21/02/2020",07:20:00,"Não","S.PAULO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",24,"Solteiro",NA,"Parda",NA
+2020,"18/02/2020",19:30:00,"Não","S.PAULO","SP","Comércio e serviços","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",27,"Solteiro","1 Grau completo","Parda","CASAMENTO"
+2020,"18/02/2020",19:30:00,"Não","S.PAULO","SP","Comércio e serviços","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",27,"Solteiro","1 Grau completo","Parda","CASAMENTO"
+2020,"18/02/2020",19:30:00,"Não","S.PAULO","SP","Comércio e serviços","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",27,"Solteiro","1 Grau completo","Parda","CASAMENTO"
+2020,"18/02/2020",19:30:00,"Não","S.PAULO","SP","Comércio e serviços","Destruição, subtração ou ocultação de cadáver (art. 211)","Consumado","Sim","Feminino",27,"Solteiro","1 Grau completo","Parda","CASAMENTO"
+2020,"24/02/2020",20:15:00,"Não","CUNHA","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",37,"Casado",NA,"Branca","CASAMENTO"
+2020,"24/02/2020",20:15:00,"Não","CUNHA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",37,"Casado",NA,"Branca","CASAMENTO"
+2020,"25/02/2020",12:19:00,"Sim","OSASCO","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",61,"Casado",NA,"Parda","CASAMENTO"
+2020,"25/02/2020",12:19:00,"Sim","OSASCO","SP","Residência","Localização/Apreensão de objeto","Consumado",NA,NA,NA,NA,NA,NA,NA
+2020,"25/02/2020",12:19:00,"Sim","OSASCO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",61,"Casado",NA,"Parda","CASAMENTO"
+2020,"25/02/2020",12:19:00,"Sim","OSASCO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",61,"Casado",NA,"Parda","CASAMENTO"
+2020,"25/02/2020",12:19:00,"Sim","OSASCO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Tentado","Sim","Feminino",61,"Casado",NA,"Parda","CASAMENTO"
+2020,"26/02/2020",02:27:00,"Não","BRAGANCA PAULISTA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Tentado",NA,NA,NA,NA,NA,NA,NA
+2020,"14/02/2020",20:50:00,"Não","HORTOLANDIA","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",52,"Solteiro",NA,"Parda","CASAMENTO"
+2020,"14/02/2020",20:50:00,"Não","HORTOLANDIA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",52,"Solteiro",NA,"Parda","CASAMENTO"
+2020,"10/02/2020",NA,"Não","MOGI DAS CRUZES","SP","Hospedagem","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",25,"Casado","2 Grau completo","Parda",NA
+2020,"10/02/2020",NA,"Não","MOGI DAS CRUZES","SP","Hospedagem","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",30,"Casado","2 Grau incompleto","Parda",NA
+2020,"22/02/2020",11:00:00,"Sim","S.BARBARA D OESTE","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",35,"Solteiro","2 Grau completo","Branca","ENVOLVIMENTO AMOROSO"
+2020,"22/02/2020",11:00:00,"Sim","S.BARBARA D OESTE","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",35,"Solteiro","2 Grau completo","Branca","ENVOLVIMENTO AMOROSO"
+2020,"22/02/2020",11:00:00,"Sim","S.BARBARA D OESTE","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",35,"Solteiro","2 Grau completo","Branca","ENVOLVIMENTO AMOROSO"
+2020,"01/03/2020",18:30:00,"Sim","CAMPINAS","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",57,"Solteiro",NA,"Parda","UNIAO ESTAVEL"
+2020,"01/03/2020",18:30:00,"Sim","CAMPINAS","SP","Residência","Comunicação de óbito","Consumado",NA,NA,NA,NA,NA,NA,NA
+2020,"01/03/2020",18:30:00,"Sim","CAMPINAS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",57,"Solteiro",NA,"Parda","UNIAO ESTAVEL"
+2020,"04/03/2020",18:32:00,"Sim","APARECIDA","SP","Via pública","Violência Doméstica","Consumado","Sim","Feminino",69,NA,NA,"Branca","PARENTESCO"
+2020,"04/03/2020",18:32:00,"Sim","APARECIDA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",69,NA,NA,"Branca","PARENTESCO"
+2020,"04/03/2020",18:32:00,"Sim","APARECIDA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Tentado","Sim","Feminino",69,NA,NA,"Branca","PARENTESCO"
+2020,"04/03/2020",18:32:00,"Sim","APARECIDA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",69,NA,NA,"Branca","PARENTESCO"
+2020,"04/03/2020",18:32:00,"Sim","APARECIDA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Tentado","Sim","Feminino",69,NA,NA,"Branca","PARENTESCO"
+2020,"07/03/2020",00:40:00,"Não","LINS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",27,"União Estável",NA,"Branca",NA
+2020,"07/03/2020",00:40:00,"Não","LINS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",44,"Casado",NA,"Branca",NA
+2020,"07/03/2020",20:30:00,"Não","CAMPINAS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",34,"Solteiro",NA,"Preta",NA
+2020,"10/03/2020",06:18:00,"Não","BARUERI","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",23,"União Estável","Superior completo","Branca",NA
+2020,"15/03/2020",07:30:00,"Não","CARAPICUIBA","SP","Residência","Suicídio consumado","Consumado","Sim","Masculino",33,"União Estável","1 Grau incompleto","Parda",NA
+2020,"15/03/2020",07:30:00,"Não","CARAPICUIBA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",22,"União Estável","2 Grau completo","Parda",NA
+2020,"15/03/2020",07:30:00,"Não","CARAPICUIBA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",33,"União Estável","1 Grau incompleto","Parda",NA
+2020,"15/03/2020",NA,"Não","BIRIGUI","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",27,"Solteiro","1 Grau completo","Branca",NA
+2020,"15/03/2020",16:47:00,"Sim","MOGI DAS CRUZES","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",32,"Solteiro",NA,"Preta","PARENTESCO"
+2020,"15/03/2020",16:47:00,"Sim","MOGI DAS CRUZES","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",32,"Solteiro",NA,"Preta","PARENTESCO"
+2020,"15/03/2020",16:47:00,"Sim","MOGI DAS CRUZES","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",32,"Solteiro",NA,"Preta","PARENTESCO"
+2020,"15/03/2020",19:08:00,"Não","ITATIBA","SP","Lazer e recreação","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",29,"Divorciado","2 Grau completo","Branca","ENVOLVIMENTO AMOROSO"
+2020,"15/03/2020",19:08:00,"Não","ITATIBA","SP","Lazer e recreação","Homicídio simples (art. 121)","Tentado","Sim","Masculino",44,"Ignorado","2 Grau completo","Branca","ENVOLVIMENTO AMOROSO"
+2020,"15/03/2020",19:08:00,"Não","ITATIBA","SP","Lazer e recreação","Homicídio simples (art. 121)","Consumado","Sim","Masculino",44,"Ignorado","2 Grau completo","Branca","ENVOLVIMENTO AMOROSO"
+2020,"16/03/2020",21:00:00,"Não","S.PAULO","SP","Residência","Suicídio consumado","Consumado","Sim","Feminino",33,"Solteiro","Superior completo","Branca","CASAMENTO"
+2020,"16/03/2020",21:00:00,"Não","S.PAULO","SP","Residência","Suicídio consumado","Consumado","Sim","Masculino",50,"Casado","Superior completo","Parda","CASAMENTO"
+2020,"16/03/2020",21:00:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",33,"Solteiro","Superior completo","Branca","CASAMENTO"
+2020,"16/03/2020",21:00:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",50,"Casado","Superior completo","Parda","CASAMENTO"
+2020,"18/03/2020",12:20:00,"Não","BURITAMA","SP","Residência","Suicídio consumado","Consumado","Sim","Masculino",63,"Ignorado",NA,"Branca",NA
+2020,"18/03/2020",12:20:00,"Não","BURITAMA","SP","Residência","Suicídio consumado","Consumado","Sim","Feminino",54,NA,NA,"Branca",NA
+2020,"18/03/2020",12:20:00,"Não","BURITAMA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",63,"Ignorado",NA,"Branca",NA
+2020,"20/03/2020",23:40:00,"Sim","GUARULHOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",53,"Casado",NA,"Branca",NA
+2020,"21/03/2020",20:00:00,"Sim","ATIBAIA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",44,"Ignorado",NA,"Branca",NA
+2020,"25/03/2020",19:00:00,"Não","SANTOS","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",24,"União Estável","1 Grau completo","Parda","UNIAO ESTAVEL"
+2020,"25/03/2020",19:00:00,"Não","SANTOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",24,"União Estável","1 Grau completo","Parda","UNIAO ESTAVEL"
+2020,"18/03/2020",08:00:00,"Não","ITAPECERICA DA SERRA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",49,"Casado","1 Grau incompleto","Branca",NA
+2020,"26/03/2020",23:24:00,"Sim","GUARULHOS","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",34,"Solteiro",NA,"Parda",NA
+2020,"27/03/2020",NA,"Não","MOCOCA","SP","Residência","Suicídio consumado","Consumado","Sim","Masculino",35,"Ignorado",NA,"Branca",NA
+2020,"27/03/2020",NA,"Não","MOCOCA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",29,"Casado",NA,"Branca",NA
+2020,"29/03/2020",08:30:00,"Não",NA,NA,"Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2020,"29/03/2020",08:30:00,"Não",NA,NA,"Via pública","Art. 213 - Estupro","Consumado",NA,NA,NA,NA,NA,NA,NA
+2020,"16/03/2020",20:47:00,"Não","ITANHAEM","SP","Via pública","Violência Doméstica","Consumado","Sim","Feminino",31,"Divorciado","2 Grau completo","Branca","ENVOLVIMENTO AMOROSO"
+2020,"16/03/2020",20:47:00,"Não","ITANHAEM","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",31,"Divorciado","2 Grau completo","Branca","ENVOLVIMENTO AMOROSO"
+2020,"31/03/2020",23:44:00,"Sim","NOVO HORIZONTE","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",16,"Solteiro",NA,"Parda","PARENTESCO"
+2020,"31/03/2020",23:44:00,"Sim","NOVO HORIZONTE","SP","Residência","Suicídio tentado","Tentado",NA,NA,NA,NA,NA,NA,NA
+2020,"31/03/2020",23:44:00,"Sim","NOVO HORIZONTE","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",16,"Solteiro",NA,"Parda","PARENTESCO"
+2020,"31/03/2020",23:44:00,"Sim","NOVO HORIZONTE","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Tentado","Sim","Feminino",16,"Solteiro",NA,"Parda","PARENTESCO"
+2020,"01/04/2020",NA,"Sim","MAUA","SP","Residência","Suicídio tentado","Tentado","Sim","Feminino",68,"Casado",NA,"Branca","CASAMENTO"
+2020,"01/04/2020",NA,"Sim","MAUA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",68,"Casado",NA,"Branca","CASAMENTO"
+2020,"03/04/2020",23:30:00,"Sim","SUMARE","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",16,"União Estável",NA,"Parda","ENVOLVIMENTO AMOROSO"
+2020,"03/04/2020",23:30:00,"Sim","SUMARE","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",16,"União Estável",NA,"Parda","ENVOLVIMENTO AMOROSO"
+2020,"05/04/2020",22:00:00,"Sim","S.PAULO","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",31,"Solteiro","1 Grau incompleto","Parda","UNIAO ESTAVEL"
+2020,"05/04/2020",22:00:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",31,"Solteiro","1 Grau incompleto","Parda","UNIAO ESTAVEL"
+2020,"08/04/2020",08:20:00,"Sim","AMPARO","SP","Residência","Descumprimento de medida protetiva de urgência (art. 24-A)","Consumado","Sim","Feminino",27,"Casado","2 Grau completo","Branca","CASAMENTO"
+2020,"08/04/2020",08:20:00,"Sim","AMPARO","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",27,"Casado","2 Grau completo","Branca","CASAMENTO"
+2020,"08/04/2020",08:20:00,"Sim","AMPARO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",27,"Casado","2 Grau completo","Branca","CASAMENTO"
+2020,"09/04/2020",21:33:00,"Sim","BIRIGUI","SP","Via pública","Posse ou porte ilegal de arma de fogo de uso restrito (Art. 16)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2020,"09/04/2020",21:33:00,"Sim","BIRIGUI","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",28,"Casado",NA,"Parda",NA
+2020,"10/04/2020",13:30:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",21,NA,NA,"Não informada",NA
+2020,"11/04/2020",06:00:00,"Não","MARILIA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",21,"Solteiro",NA,"Branca",NA
+2020,"12/04/2020",07:00:00,"Sim","CEDRAL","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",38,"Casado",NA,"Parda","ENVOLVIMENTO AMOROSO"
+2020,"12/04/2020",07:00:00,"Sim","CEDRAL","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",38,"Casado",NA,"Parda","ENVOLVIMENTO AMOROSO"
+2020,"12/04/2020",07:00:00,"Sim","CEDRAL","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",38,"Casado",NA,"Parda","ENVOLVIMENTO AMOROSO"
+2020,"12/04/2020",13:05:00,"Não","SOROCABA","SP","Lazer e recreação","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",NA,NA,NA,"Parda",NA
+2020,"14/04/2020",23:20:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",33,"Solteiro","1 Grau incompleto","Branca",NA
+2020,"14/04/2020",23:20:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",33,"Solteiro","1 Grau incompleto","Branca",NA
+2020,"17/04/2020",11:30:00,"Sim","PRESIDENTE PRUDENTE","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",39,"Casado","1 Grau completo","Branca","CASAMENTO"
+2020,"17/04/2020",11:30:00,"Sim","PRESIDENTE PRUDENTE","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",39,"Casado","1 Grau completo","Branca","CASAMENTO"
+2020,"17/04/2020",11:30:00,"Sim","PRESIDENTE PRUDENTE","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",39,"Casado","1 Grau completo","Branca","CASAMENTO"
+2020,"17/04/2020",13:47:00,"Não","JUNDIAI","SP","Saúde","Suicídio consumado","Consumado","Sim","Masculino",42,"Ignorado","2 Grau completo","Parda","ENVOLVIMENTO AMOROSO"
+2020,"17/04/2020",13:47:00,"Não","JUNDIAI","SP","Saúde","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",44,"Divorciado","2 Grau completo","Parda","ENVOLVIMENTO AMOROSO"
+2020,"19/04/2020",06:00:00,"Sim","ITATIBA","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",45,"Solteiro","1 Grau incompleto","Branca","ENVOLVIMENTO AMOROSO"
+2020,"19/04/2020",06:00:00,"Sim","ITATIBA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",45,"Solteiro","1 Grau incompleto","Branca","ENVOLVIMENTO AMOROSO"
+2020,"19/04/2020",06:00:00,"Sim","ITATIBA","SP","Residência","Destruição, subtração ou ocultação de cadáver (art. 211)","Consumado","Sim","Feminino",45,"Solteiro","1 Grau incompleto","Branca","ENVOLVIMENTO AMOROSO"
+2020,"22/04/2020",21:00:00,"Não","LIMEIRA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",33,"Solteiro",NA,"Branca",NA
+2020,"03/04/2020",01:00:00,"Sim","CAMPINAS","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",47,"Viuvo","2 Grau completo","Parda","PARENTESCO"
+2020,"03/04/2020",01:00:00,"Sim","CAMPINAS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",47,"Viuvo","2 Grau completo","Parda","PARENTESCO"
+2020,"25/04/2020",18:10:00,"Sim","BOITUVA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",35,"Solteiro",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2020,"26/04/2020",17:35:00,"Não","UBATUBA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",40,"Ignorado",NA,"Branca",NA
+2020,"27/04/2020",19:10:00,"Não","RIBEIRAO PRETO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",38,"Ignorado",NA,"Branca",NA
+2020,"27/04/2020",19:10:00,"Não","RIBEIRAO PRETO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",38,"Ignorado",NA,"Branca",NA
+2020,"30/04/2020",16:30:00,"Sim","ALTAIR","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",32,"União Estável","1 Grau incompleto","Preta",NA
+2020,"05/05/2020",01:30:00,"Sim","PEDREGULHO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",26,"União Estável",NA,"Branca",NA
+2020,"05/05/2020",01:30:00,"Sim","PEDREGULHO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",26,"União Estável",NA,"Branca",NA
+2020,"05/05/2020",01:30:00,"Sim","PEDREGULHO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",26,"União Estável",NA,"Branca",NA
+2020,"06/05/2020",07:00:00,"Sim","AGUDOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",80,"Solteiro",NA,"Branca",NA
+2020,"06/05/2020",07:00:00,"Sim","AGUDOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",80,"Solteiro",NA,"Branca",NA
+2020,"11/05/2020",23:33:00,"Sim","GUARUJA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",28,"Solteiro",NA,"Parda",NA
+2020,"11/05/2020",23:33:00,"Sim","GUARUJA","SP","Via pública","Homicídio simples (art. 121)","Tentado",NA,NA,NA,NA,NA,NA,NA
+2020,"13/05/2020",22:35:00,"Não","MAUA","SP","Comércio e serviços","Suicídio consumado","Consumado","Sim","Masculino",43,"União Estável",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2020,"13/05/2020",22:35:00,"Não","MAUA","SP","Comércio e serviços","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",29,"Solteiro","Superior completo","Branca","ENVOLVIMENTO AMOROSO"
+2020,"13/05/2020",22:35:00,"Não","MAUA","SP","Comércio e serviços","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",43,"União Estável",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2020,"16/05/2020",07:05:00,"Não","S.PAULO","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",28,"Solteiro","Superior completo","Parda","UNIAO ESTAVEL"
+2020,"16/05/2020",07:05:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",28,"Solteiro","Superior completo","Parda","UNIAO ESTAVEL"
+2020,"16/05/2020",20:50:00,"Não","MIGUELOPOLIS","SP","Via pública","Violência Doméstica","Consumado","Sim","Feminino",33,"Solteiro","1 Grau incompleto","Parda","NENHUMA RELACAO"
+2020,"16/05/2020",20:50:00,"Não","MIGUELOPOLIS","SP","Via pública","Homicídio simples (art. 121)","Consumado","Sim","Feminino",33,"Solteiro","1 Grau incompleto","Parda","NENHUMA RELACAO"
+2020,"17/05/2020",NA,"Não","PANORAMA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",32,"Solteiro","2 Grau completo","Branca",NA
+2020,"19/05/2020",21:00:00,"Não","MOGI GUACU","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",33,"Solteiro",NA,"Branca",NA
+2020,"06/06/2020",17:00:00,"Sim","CAMPINAS","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",53,NA,NA,"Parda","ENVOLVIMENTO AMOROSO"
+2020,"06/06/2020",17:00:00,"Sim","CAMPINAS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",53,NA,NA,"Parda","ENVOLVIMENTO AMOROSO"
+2020,"09/06/2020",22:40:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",51,"União Estável",NA,"Parda",NA
+2020,"11/06/2020",20:17:00,"Não","IBIRAREMA","SP","Via pública","Suicídio consumado","Consumado","Sim","Masculino",35,NA,"2 Grau completo","Branca",NA
+2020,"11/06/2020",20:17:00,"Não","IBIRAREMA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",23,"Solteiro",NA,"Branca",NA
+2020,"15/06/2020",23:30:00,"Sim","DIADEMA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",41,"Solteiro",NA,"Parda",NA
+2020,"15/06/2020",23:30:00,"Sim","DIADEMA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",41,"Solteiro",NA,"Parda",NA
+2020,"14/06/2020",11:30:00,"Não","GUARULHOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",29,NA,NA,"Branca",NA
+2020,"19/06/2020",20:00:00,"Sim","NOVO HORIZONTE","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",45,"União Estável","1 Grau completo","Branca","UNIAO ESTAVEL"
+2020,"19/06/2020",20:00:00,"Sim","NOVO HORIZONTE","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",45,"União Estável","1 Grau completo","Branca","UNIAO ESTAVEL"
+2020,"19/06/2020",12:15:00,"Não","JABOTICABAL","SP","Condominio Residencial","Suicídio consumado","Consumado",NA,NA,NA,NA,NA,NA,NA
+2020,"19/06/2020",12:15:00,"Não","JABOTICABAL","SP","Condominio Residencial","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",43,"Divorciado","Superior completo","Branca","ENVOLVIMENTO AMOROSO"
+2020,"21/06/2020",NA,"Sim","ILHABELA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",41,"Casado",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2020,"04/07/2020",14:40:00,"Não","BARRETOS","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",35,"Solteiro","1 Grau incompleto","Branca","ENVOLVIMENTO AMOROSO"
+2020,"05/07/2020",10:53:00,"Sim","OSASCO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Tentado",NA,NA,NA,NA,NA,NA,NA
+2020,"07/07/2020",14:00:00,"Sim","FERNANDOPOLIS","SP","Via pública","Violência Doméstica","Consumado","Sim","Feminino",30,"União Estável",NA,"Branca","UNIAO ESTAVEL"
+2020,"07/07/2020",14:00:00,"Sim","FERNANDOPOLIS","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",30,"União Estável",NA,"Branca","UNIAO ESTAVEL"
+2020,"07/07/2020",14:00:00,"Sim","FERNANDOPOLIS","SP","Via pública","Destruição, subtração ou ocultação de cadáver (art. 211)","Consumado","Sim","Feminino",30,"União Estável",NA,"Branca","UNIAO ESTAVEL"
+2020,"15/07/2020",05:00:00,"Sim","JULIO MESQUITA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",26,"União Estável",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2020,"15/07/2020",05:00:00,"Sim","JULIO MESQUITA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",26,"União Estável",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2020,"15/07/2020",05:00:00,"Sim","JULIO MESQUITA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",26,"União Estável",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2020,"15/07/2020",18:50:00,"Sim","LIMEIRA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",46,"Solteiro",NA,"Parda",NA
+2020,"15/07/2020",18:50:00,"Sim","LIMEIRA","SP","Residência","Lesão corporal culposa (art. 129. §6o.)","Consumado","Sim","Feminino",46,"Solteiro",NA,"Parda",NA
+2020,"16/07/2020",05:30:00,"Não","ARTUR NOGUEIRA","SP","Via pública","A.I.-Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",31,"Solteiro","1 Grau completo","Parda",NA
+2020,"18/07/2020",12:20:00,"Não","S.CARLOS","SP","Via pública","A.I.-Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",16,"Solteiro","1 Grau completo","Preta","ENVOLVIMENTO AMOROSO"
+2020,"19/07/2020",01:50:00,"Não","CAMPINAS","SP","Unidade rural","Violência Doméstica","Consumado","Sim","Feminino",18,"Solteiro",NA,"Branca","UNIAO ESTAVEL"
+2020,"19/07/2020",01:50:00,"Não","CAMPINAS","SP","Unidade rural","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",18,"Solteiro",NA,"Branca","UNIAO ESTAVEL"
+2020,"22/07/2020",20:12:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",31,"União Estável","2 Grau completo","Parda",NA
+2020,"23/07/2020",NA,"Não","DOBRADA","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",35,"Solteiro","1 Grau completo","Parda","ENVOLVIMENTO AMOROSO"
+2020,"23/07/2020",NA,"Não","DOBRADA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",35,"Solteiro","1 Grau completo","Parda","ENVOLVIMENTO AMOROSO"
+2020,"26/07/2020",23:00:00,"Sim","ARACATUBA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",43,"Solteiro","1 Grau incompleto","Branca",NA
+2020,"29/07/2020",03:30:00,"Sim","S.PAULO","SP","Area não ocupada","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",24,"Solteiro","1 Grau completo","Preta",NA
+2020,"02/08/2020",19:00:00,"Não","FERRAZ DE VASCONCELOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",17,"Solteiro",NA,"Parda",NA
+2020,"06/08/2020",12:00:00,"Sim","S.PAULO","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",64,"Solteiro",NA,"Parda","PARENTESCO"
+2020,"06/08/2020",12:00:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",64,"Solteiro",NA,"Parda","PARENTESCO"
+2020,"06/08/2020",12:00:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",64,"Solteiro",NA,"Parda","PARENTESCO"
+2020,"08/08/2020",05:00:00,"Não","S.PAULO","SP","Residência","Aborto provocado por terceiro SEM o consentimento da gestante (art. 125)","Consumado","Sim","Feminino",25,"Solteiro",NA,"Branca",NA
+2020,"08/08/2020",05:00:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",25,"Solteiro",NA,"Branca",NA
+2020,"22/08/2020",NA,"Não","ATIBAIA","SP","Residência","Suicídio consumado","Consumado","Sim","Masculino",33,"Solteiro",NA,"Branca",NA
+2020,"22/08/2020",NA,"Não","ATIBAIA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",31,"Solteiro","Superior completo","Branca",NA
+2020,"22/08/2020",NA,"Não","ATIBAIA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",33,"Solteiro",NA,"Branca",NA
+2020,"23/08/2020",12:00:00,"Não","CATANDUVA","SP","Via pública","Violência Doméstica","Consumado",NA,NA,NA,NA,NA,NA,NA
+2020,"23/08/2020",12:00:00,"Não","CATANDUVA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Tentado",NA,NA,NA,NA,NA,NA,NA
+2020,"26/08/2020",12:50:00,"Sim","S.BERNARDO DO CAMPO","SP","Hospedagem","Localização/Apreensão de objeto","Consumado","Sim","Feminino",27,"Casado","1 Grau completo","Preta",NA
+2020,"26/08/2020",12:50:00,"Sim","S.BERNARDO DO CAMPO","SP","Hospedagem","Localização/Apreensão de veículo","Consumado","Sim","Feminino",27,"Casado","1 Grau completo","Preta",NA
+2020,"26/08/2020",12:50:00,"Sim","S.BERNARDO DO CAMPO","SP","Hospedagem","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",27,"Casado","1 Grau completo","Preta",NA
+2020,"26/08/2020",12:50:00,"Sim","S.BERNARDO DO CAMPO","SP","Hospedagem","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",27,"Casado","1 Grau completo","Preta",NA
+2020,"26/08/2020",12:50:00,"Sim","S.BERNARDO DO CAMPO","SP","Hospedagem","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",27,"Casado","1 Grau completo","Preta",NA
+2020,"29/08/2020",22:50:00,"Sim","CAMPINAS","SP","Via pública","Violência Doméstica","Consumado","Sim","Feminino",49,"União Estável","1 Grau completo","Branca","UNIAO ESTAVEL"
+2020,"29/08/2020",22:50:00,"Sim","CAMPINAS","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",49,"União Estável","1 Grau completo","Branca","UNIAO ESTAVEL"
+2020,"29/08/2020",22:50:00,"Sim","CAMPINAS","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",49,"União Estável","1 Grau completo","Branca","UNIAO ESTAVEL"
+2020,"30/08/2020",13:00:00,"Não","JARINU","SP","Unidade rural","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",56,"Casado",NA,"Branca",NA
+2020,"01/09/2020",19:00:00,"Sim","SUMARE","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",31,"União Estável",NA,"Branca",NA
+2020,"07/09/2020",04:36:00,"Sim","S.BERNARDO DO CAMPO","SP","Via pública","Violência Doméstica","Consumado","Sim","Feminino",42,"Solteiro","1 Grau completo","Branca","ENVOLVIMENTO AMOROSO"
+2020,"07/09/2020",04:36:00,"Sim","S.BERNARDO DO CAMPO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",42,"Solteiro","1 Grau completo","Branca","ENVOLVIMENTO AMOROSO"
+2020,"07/09/2020",04:36:00,"Sim","S.BERNARDO DO CAMPO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",42,"Solteiro","1 Grau completo","Branca","ENVOLVIMENTO AMOROSO"
+2020,"11/09/2020",01:00:00,"Sim","S.CARLOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",60,"União Estável","2 Grau completo","Branca","UNIAO ESTAVEL"
+2020,"11/09/2020",01:00:00,"Sim","S.CARLOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",60,"União Estável","2 Grau completo","Branca","UNIAO ESTAVEL"
+2020,"11/09/2020",01:00:00,"Sim","S.CARLOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",60,"União Estável","2 Grau completo","Branca","UNIAO ESTAVEL"
+2020,"11/09/2020",06:20:00,"Sim","JANDIRA","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",36,"Casado","Superior completo","Parda","CASAMENTO"
+2020,"11/09/2020",06:20:00,"Sim","JANDIRA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",36,"Casado","Superior completo","Parda","CASAMENTO"
+2020,"11/09/2020",06:20:00,"Sim","JANDIRA","SP","Residência","Induzir ou instigar alguém a suicidar-se ou a praticar automutilação (art. 122)","Tentado",NA,NA,NA,NA,NA,NA,NA
+2020,"12/09/2020",20:15:00,"Sim","S.PAULO","SP","Via pública","Violência Doméstica","Consumado","Sim","Feminino",36,"União Estável","2 Grau incompleto","Preta","UNIAO ESTAVEL"
+2020,"12/09/2020",20:15:00,"Sim","S.PAULO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",36,"União Estável","2 Grau incompleto","Preta","UNIAO ESTAVEL"
+2020,"12/09/2020",20:15:00,"Sim","S.PAULO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",36,"União Estável","2 Grau incompleto","Preta","UNIAO ESTAVEL"
+2020,"13/09/2020",20:26:00,"Sim","S.PAULO","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",44,"Solteiro","2 Grau completo","Parda","UNIAO ESTAVEL"
+2020,"13/09/2020",20:26:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",44,"Solteiro","2 Grau completo","Parda","UNIAO ESTAVEL"
+2020,"13/09/2020",20:26:00,"Sim","S.PAULO","SP","Residência","Resistência (art. 329)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2020,"15/09/2020",14:55:00,"Sim","S.JOSE DO RIO PRETO","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",44,"Casado",NA,"Parda","PARENTESCO"
+2020,"15/09/2020",14:55:00,"Sim","S.JOSE DO RIO PRETO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",44,"Casado",NA,"Parda","PARENTESCO"
+2020,"15/09/2020",14:55:00,"Sim","S.JOSE DO RIO PRETO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Tentado","Sim","Feminino",44,"Casado",NA,"Parda","PARENTESCO"
+2020,"15/09/2020",14:55:00,"Sim","S.JOSE DO RIO PRETO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",44,"Casado",NA,"Parda","PARENTESCO"
+2020,"15/09/2020",14:55:00,"Sim","S.JOSE DO RIO PRETO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Tentado","Sim","Feminino",44,"Casado",NA,"Parda","PARENTESCO"
+2020,"17/09/2020",02:00:00,"Sim","S.VICENTE","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",34,"Solteiro",NA,"Parda","UNIAO ESTAVEL"
+2020,"17/09/2020",02:00:00,"Sim","S.VICENTE","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",34,"Solteiro",NA,"Parda","UNIAO ESTAVEL"
+2020,"17/09/2020",02:00:00,"Sim","S.VICENTE","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",34,"Solteiro",NA,"Parda","UNIAO ESTAVEL"
+2020,"20/09/2020",12:30:00,"Não","IGUAPE","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",37,"Solteiro","2 Grau completo","Branca",NA
+2020,"20/09/2020",12:30:00,"Não","IGUAPE","SP","Residência","Homicídio simples (art. 121)","Consumado","Sim","Masculino",32,NA,NA,"Branca",NA
+2020,"20/09/2020",12:30:00,"Não","IGUAPE","SP","Residência","Homicídio simples (art. 121)","Consumado","Sim","Feminino",37,"Solteiro","2 Grau completo","Branca",NA
+2020,"20/09/2020",12:30:00,"Não","IGUAPE","SP","Residência","Homicídio simples (art. 121)","Tentado","Sim","Masculino",32,NA,NA,"Branca",NA
+2020,"20/09/2020",12:30:00,"Não","IGUAPE","SP","Residência","Homicídio simples (art. 121)","Tentado","Sim","Feminino",37,"Solteiro","2 Grau completo","Branca",NA
+2020,"24/09/2020",09:59:00,"Sim","FRANCO DA ROCHA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",30,"Ignorado",NA,"Parda",NA
+2020,"24/09/2020",09:59:00,"Sim","FRANCO DA ROCHA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",30,"Ignorado",NA,"Parda",NA
+2020,"27/09/2020",01:13:00,"Sim","JAU","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",48,"Solteiro","1 Grau completo","Parda","ENVOLVIMENTO AMOROSO"
+2020,"27/09/2020",21:45:00,"Sim","S.PAULO","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",68,"Casado","1 Grau completo","Branca","PARENTESCO"
+2020,"27/09/2020",21:45:00,"Sim","S.PAULO","SP","Residência","Suicídio tentado","Tentado",NA,NA,NA,NA,NA,NA,NA
+2020,"27/09/2020",21:45:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",68,"Casado","1 Grau completo","Branca","PARENTESCO"
+2020,"27/09/2020",20:50:00,"Sim","S.PAULO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",22,"Solteiro","1 Grau completo","Parda",NA
+2020,"29/09/2020",08:40:00,"Sim","EMBU DAS ARTES","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",28,"Ignorado",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2020,"29/09/2020",08:40:00,"Sim","EMBU DAS ARTES","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",28,"Ignorado",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2020,"03/10/2020",05:08:00,"Sim","S.PAULO","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",26,"Solteiro","2 Grau completo","Branca","ENVOLVIMENTO AMOROSO"
+2020,"03/10/2020",05:08:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",26,"Solteiro","2 Grau completo","Branca","ENVOLVIMENTO AMOROSO"
+2020,"03/10/2020",05:08:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",26,"Solteiro","2 Grau completo","Branca","ENVOLVIMENTO AMOROSO"
+2020,"04/10/2020",18:27:00,"Não","S.PAULO","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",35,"Solteiro",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2020,"04/10/2020",18:27:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",35,"Solteiro",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2020,"05/10/2020",10:16:00,"Sim","IBITINGA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",17,"Solteiro",NA,"Branca",NA
+2020,"05/10/2020",10:16:00,"Sim","IBITINGA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",17,"Solteiro",NA,"Branca",NA
+2020,"05/10/2020",10:16:00,"Sim","IBITINGA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",17,"Solteiro",NA,"Branca",NA
+2020,"05/10/2020",10:16:00,"Sim","IBITINGA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",17,"Solteiro",NA,"Branca",NA
+2020,"08/10/2020",22:42:00,"Não","ARACATUBA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",74,"Viuvo",NA,"Amarela",NA
+2020,"08/10/2020",22:42:00,"Não","ARACATUBA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",74,"Viuvo",NA,"Amarela",NA
+2020,"08/10/2020",22:42:00,"Não","ARACATUBA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",74,"Viuvo",NA,"Amarela",NA
+2020,"10/10/2020",14:29:00,"Sim","BRAGANCA PAULISTA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",42,"Divorciado",NA,"Branca",NA
+2020,"11/10/2020",22:00:00,"Sim","ITAPEVI","SP","Residência","Violência Doméstica","Consumado",NA,NA,NA,NA,NA,NA,NA
+2020,"11/10/2020",22:00:00,"Sim","ITAPEVI","SP","Residência","Ameaça (art. 147)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2020,"11/10/2020",22:00:00,"Sim","ITAPEVI","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",30,"Casado",NA,"Branca","CASAMENTO"
+2020,"11/10/2020",22:00:00,"Sim","ITAPEVI","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",30,"Casado",NA,"Branca","CASAMENTO"
+2020,"11/10/2020",22:00:00,"Sim","ITAPEVI","SP","Residência","Lesão corporal (art 129 § 9º)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2020,"11/10/2020",22:00:00,"Sim","ITAPEVI","SP","Residência","Seqüestro e cárcere privado (art. 148)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2020,"11/10/2020",22:00:00,"Sim","ITAPEVI","SP","Residência","Dano (art. 163)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2020,"12/10/2020",20:30:00,"Não","S.PAULO","SP","Via pública","Violência Doméstica","Consumado","Sim","Feminino",38,"Solteiro",NA,"Parda","PARENTESCO"
+2020,"12/10/2020",20:30:00,"Não","S.PAULO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",18,"Solteiro",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2020,"12/10/2020",20:30:00,"Não","S.PAULO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",38,"Solteiro",NA,"Parda","PARENTESCO"
+2020,"12/10/2020",20:30:00,"Não","S.PAULO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",18,"Solteiro",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2020,"12/10/2020",20:30:00,"Não","S.PAULO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",38,"Solteiro",NA,"Parda","PARENTESCO"
+2020,"12/10/2020",20:30:00,"Não","S.PAULO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Tentado","Sim","Feminino",18,"Solteiro",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2020,"12/10/2020",20:30:00,"Não","S.PAULO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Tentado","Sim","Feminino",38,"Solteiro",NA,"Parda","PARENTESCO"
+2020,"12/10/2020",20:30:00,"Não","S.PAULO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",18,"Solteiro",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2020,"12/10/2020",20:30:00,"Não","S.PAULO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",38,"Solteiro",NA,"Parda","PARENTESCO"
+2020,"16/10/2020",00:34:00,"Não","JOSE BONIFACIO","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",29,"Solteiro",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2020,"16/10/2020",00:34:00,"Não","JOSE BONIFACIO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",29,"Solteiro",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2020,"17/10/2020",16:15:00,"Sim","S.PAULO","SP","Hospedagem","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",22,"União Estável",NA,"Parda","UNIAO ESTAVEL"
+2020,"18/10/2020",01:30:00,"Sim","PONTAL","SP","Via pública","Violência Doméstica","Consumado","Sim","Feminino",29,"Solteiro","2 Grau completo","Parda","ENVOLVIMENTO AMOROSO"
+2020,"18/10/2020",01:30:00,"Sim","PONTAL","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",29,"Solteiro","2 Grau completo","Parda","ENVOLVIMENTO AMOROSO"
+2020,"18/10/2020",01:30:00,"Sim","PONTAL","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",29,"Solteiro","2 Grau completo","Parda","ENVOLVIMENTO AMOROSO"
+2020,"19/10/2020",07:15:00,"Não","CAIEIRAS","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",32,"Solteiro","1 Grau completo","Parda","ENVOLVIMENTO AMOROSO"
+2020,"19/10/2020",07:15:00,"Não","CAIEIRAS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",32,"Solteiro","1 Grau completo","Parda","ENVOLVIMENTO AMOROSO"
+2020,"20/10/2020",00:25:00,"Não","LIMEIRA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",24,"Solteiro",NA,"Não informada",NA
+2020,"20/10/2020",NA,"Sim","NAZARE PAULISTA","SP","Residência","Porte ilegal de arma de fogo de uso permitido (Art. 14)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2020,"20/10/2020",NA,"Sim","NAZARE PAULISTA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",37,"Solteiro",NA,"Branca","CASAMENTO"
+2020,"20/10/2020",NA,"Sim","NAZARE PAULISTA","SP","Residência","Homicídio simples (art. 121)","Tentado","Sim","Feminino",37,"Solteiro",NA,"Branca","CASAMENTO"
+2020,"29/10/2020",18:23:00,"Sim","S.PEDRO","SP","Comércio e serviços","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",67,"União Estável",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2020,"29/10/2020",18:23:00,"Sim","S.PEDRO","SP","Comércio e serviços","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",67,"União Estável",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2020,"29/10/2020",18:23:00,"Sim","S.PEDRO","SP","Comércio e serviços","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",67,"União Estável",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2020,"02/11/2020",00:02:00,"Sim","S.PAULO","SP","Hospedagem","Violência Doméstica","Consumado","Sim","Feminino",37,"Solteiro",NA,"Preta","UNIAO ESTAVEL"
+2020,"02/11/2020",00:02:00,"Sim","S.PAULO","SP","Hospedagem","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",37,"Solteiro",NA,"Preta","UNIAO ESTAVEL"
+2020,"02/11/2020",20:30:00,"Não","BERTIOGA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",19,"União Estável","1 Grau completo","Parda",NA
+2020,"03/11/2020",07:30:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",37,"Solteiro",NA,"Branca",NA
+2020,"03/11/2020",07:30:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",38,"Solteiro",NA,"Parda",NA
+2020,"07/11/2020",07:20:00,"Sim","COTIA","SP","Residência","Violência Doméstica","Consumado",NA,NA,NA,NA,NA,NA,NA
+2020,"07/11/2020",07:20:00,"Sim","COTIA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Tentado",NA,NA,NA,NA,NA,NA,NA
+2020,"07/11/2020",07:20:00,"Sim","COTIA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Tentado",NA,NA,NA,NA,NA,NA,NA
+2020,"07/11/2020",07:20:00,"Sim","COTIA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Tentado",NA,NA,NA,NA,NA,NA,NA
+2020,"07/11/2020",02:41:00,"Sim","GUARANTA","SP","Residência","Localização/Apreensão de objeto","Consumado","Sim","Feminino",16,"União Estável",NA,"Parda","UNIAO ESTAVEL"
+2020,"07/11/2020",02:41:00,"Sim","GUARANTA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",16,"União Estável",NA,"Parda","UNIAO ESTAVEL"
+2020,"07/11/2020",02:41:00,"Sim","GUARANTA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",16,"União Estável",NA,"Parda","UNIAO ESTAVEL"
+2020,"07/11/2020",23:40:00,"Não","S.ANDRE","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",42,"Casado",NA,"Branca",NA
+2020,"08/11/2020",16:00:00,"Não","RIBEIRAO PRETO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",41,"Solteiro",NA,"Branca",NA
+2020,"08/11/2020",09:30:00,"Não","S.PAULO","SP","Area não ocupada","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",19,"Solteiro",NA,"Parda",NA
+2020,"09/11/2020",00:20:00,"Sim","S.ANASTACIO","SP","Via pública","Posse irregular de arma de fogo de uso permitido (Art.12)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2020,"09/11/2020",00:20:00,"Sim","S.ANASTACIO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",28,"Solteiro","2 Grau completo","Parda",NA
+2020,"09/11/2020",00:20:00,"Sim","S.ANASTACIO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",27,"Divorciado",NA,"Parda",NA
+2020,"09/11/2020",00:20:00,"Sim","S.ANASTACIO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",28,"Solteiro","2 Grau completo","Parda",NA
+2020,"09/11/2020",00:20:00,"Sim","S.ANASTACIO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",27,"Divorciado",NA,"Parda",NA
+2020,"09/11/2020",00:20:00,"Sim","S.ANASTACIO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",28,"Solteiro","2 Grau completo","Parda",NA
+2020,"09/11/2020",00:20:00,"Sim","S.ANASTACIO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",27,"Divorciado",NA,"Parda",NA
+2020,"09/11/2020",00:20:00,"Sim","S.ANASTACIO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",28,"Solteiro","2 Grau completo","Parda",NA
+2020,"09/11/2020",00:20:00,"Sim","S.ANASTACIO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",27,"Divorciado",NA,"Parda",NA
+2020,"09/11/2020",23:30:00,"Sim","ESTIVA GERBI","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",21,"União Estável",NA,"Branca",NA
+2020,"11/11/2020",04:20:00,"Sim","BAURU","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",63,"Casado",NA,"Branca","CASAMENTO"
+2020,"11/11/2020",04:20:00,"Sim","BAURU","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",63,"Casado",NA,"Branca","CASAMENTO"
+2020,"13/11/2020",03:35:00,"Não","JANDIRA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",30,NA,"2 Grau completo","Branca",NA
+2020,"15/11/2020",12:05:00,"Não","S.PAULO","SP","Residência","Suicídio consumado","Consumado","Sim","Masculino",53,"Casado","Superior completo","Preta",NA
+2020,"15/11/2020",12:05:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",61,NA,"Superior completo","Branca",NA
+2020,"15/11/2020",12:05:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",53,"Casado","Superior completo","Preta",NA
+2020,"16/11/2020",NA,"Não","BARUERI","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",52,"Solteiro",NA,"Branca",NA
+2020,"16/11/2020",17:00:00,"Sim","MAUA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",32,"Solteiro",NA,"Branca",NA
+2020,"22/11/2020",12:20:00,"Sim","CACAPAVA","SP","Residência","A.I.-Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",36,"Solteiro","1 Grau incompleto","Branca","PARENTESCO"
+2020,"22/11/2020",12:20:00,"Sim","CACAPAVA","SP","Residência","A.I.-Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",36,"Solteiro","1 Grau incompleto","Branca","PARENTESCO"
+2020,"22/11/2020",12:20:00,"Sim","CACAPAVA","SP","Residência","A.I.-Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",36,"Solteiro","1 Grau incompleto","Branca","PARENTESCO"
+2020,"22/11/2020",12:20:00,"Sim","CACAPAVA","SP","Residência","A.I.-Porte ilegal de arma de fogo de uso permitido (Art. 14)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2020,"22/11/2020",12:20:00,"Sim","CACAPAVA","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",36,"Solteiro","1 Grau incompleto","Branca","PARENTESCO"
+2020,"29/11/2020",02:45:00,"Não","AMERICANA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",25,"União Estável","1 Grau completo","Não informada","UNIAO ESTAVEL"
+2020,"01/12/2020",15:54:00,"Sim","PINDAMONHANGABA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Tentado",NA,NA,NA,NA,NA,NA,NA
+2020,"01/12/2020",15:54:00,"Sim","PINDAMONHANGABA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Tentado",NA,NA,NA,NA,NA,NA,NA
+2020,"02/12/2020",06:30:00,"Não","PRESIDENTE PRUDENTE","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",37,"Casado",NA,"Branca",NA
+2020,"03/12/2020",10:45:00,"Sim","PIRAJUI","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",53,"Solteiro","1 Grau completo","Branca",NA
+2020,"03/12/2020",10:45:00,"Sim","PIRAJUI","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",53,"Solteiro","1 Grau completo","Branca",NA
+2020,"03/12/2020",10:45:00,"Sim","PIRAJUI","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",53,"Solteiro","1 Grau completo","Branca",NA
+2020,"04/12/2020",NA,"Não","DOIS CORREGOS","SP","Residência","Suicídio consumado","Consumado","Sim","Masculino",30,"Solteiro","2 Grau completo","Branca","PARENTESCO,ENVOLVIMENTO AMOROSO"
+2020,"04/12/2020",NA,"Não","DOIS CORREGOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",30,"Solteiro","2 Grau completo","Branca","PARENTESCO,ENVOLVIMENTO AMOROSO"
+2020,"04/12/2020",NA,"Não","DOIS CORREGOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",NA,NA,NA,"Branca","PARENTESCO"
+2020,"04/12/2020",NA,"Não","DOIS CORREGOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",29,"Solteiro","Superior incompleto","Branca","ENVOLVIMENTO AMOROSO"
+2020,"04/12/2020",NA,"Não","DOIS CORREGOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",30,"Solteiro","2 Grau completo","Branca","PARENTESCO,ENVOLVIMENTO AMOROSO"
+2020,"04/12/2020",NA,"Não","DOIS CORREGOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",NA,NA,NA,"Branca","PARENTESCO"
+2020,"04/12/2020",NA,"Não","DOIS CORREGOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",29,"Solteiro","Superior incompleto","Branca","ENVOLVIMENTO AMOROSO"
+2020,"04/12/2020",NA,"Não","DOIS CORREGOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",30,"Solteiro","2 Grau completo","Branca","PARENTESCO,ENVOLVIMENTO AMOROSO"
+2020,"04/12/2020",NA,"Não","DOIS CORREGOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",NA,NA,NA,"Branca","PARENTESCO"
+2020,"04/12/2020",NA,"Não","DOIS CORREGOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",29,"Solteiro","Superior incompleto","Branca","ENVOLVIMENTO AMOROSO"
+2020,"06/12/2020",02:35:00,"Não","S.PAULO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",30,"Viuvo",NA,"Parda",NA
+2020,"06/12/2020",16:00:00,"Sim","JUNDIAI","SP","Residência","Violência Doméstica","Consumado",NA,NA,NA,NA,NA,NA,NA
+2020,"06/12/2020",16:00:00,"Sim","JUNDIAI","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",23,"Solteiro","2 Grau completo","Branca","ENVOLVIMENTO AMOROSO"
+2020,"06/12/2020",16:00:00,"Sim","JUNDIAI","SP","Residência","Fraude processual (art. 347)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2020,"09/12/2020",06:15:00,"Não","ITAJOBI","SP","Via pública","Violência Doméstica","Consumado",NA,NA,NA,NA,NA,NA,NA
+2020,"09/12/2020",06:15:00,"Não","ITAJOBI","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",25,"União Estável",NA,"Parda","UNIAO ESTAVEL"
+2020,"09/12/2020",06:15:00,"Não","ITAJOBI","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",25,"União Estável",NA,"Parda","UNIAO ESTAVEL"
+2020,"11/12/2020",06:00:00,"Sim","OSASCO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",26,"União Estável","2 Grau completo","Branca",NA
+2020,"11/12/2020",06:00:00,"Sim","OSASCO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",5,NA,NA,"Branca",NA
+2020,"11/12/2020",06:00:00,"Sim","OSASCO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",26,"União Estável","2 Grau completo","Branca",NA
+2020,"11/12/2020",06:00:00,"Sim","OSASCO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",5,NA,NA,"Branca",NA
+2020,"11/12/2020",06:00:00,"Sim","OSASCO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",26,"União Estável","2 Grau completo","Branca",NA
+2020,"11/12/2020",06:00:00,"Sim","OSASCO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",5,NA,NA,"Branca",NA
+2020,"11/12/2020",23:09:00,"Sim","S.PAULO","SP","Via pública","Violência Doméstica","Consumado","Sim","Feminino",16,"Solteiro","2 Grau incompleto","Branca","ENVOLVIMENTO AMOROSO"
+2020,"11/12/2020",23:09:00,"Sim","S.PAULO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",16,"Solteiro","2 Grau incompleto","Branca","ENVOLVIMENTO AMOROSO"
+2020,"21/12/2020",05:50:00,"Sim","CAMPO LIMPO PAULISTA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",47,NA,NA,"Parda","UNIAO ESTAVEL"
+2020,"21/12/2020",NA,"Sim","SUZANO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",29,"Solteiro","2 Grau incompleto","Preta","ENVOLVIMENTO AMOROSO"
+2020,"21/12/2020",NA,"Sim","SUZANO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",29,"Solteiro","2 Grau incompleto","Preta","ENVOLVIMENTO AMOROSO"
+2020,"21/12/2020",NA,"Não","SERTAOZINHO","SP","Residência","Suicídio consumado","Consumado","Sim","Masculino",61,NA,NA,"Branca",NA
+2020,"21/12/2020",NA,"Não","SERTAOZINHO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",38,NA,NA,"Parda",NA
+2020,"21/12/2020",17:33:00,"Não","S.PAULO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",NA,NA,NA,"Branca",NA
+2020,"23/12/2020",22:30:00,"Sim","S.PAULO","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",19,"Casado","2 Grau completo","Parda","CASAMENTO"
+2020,"23/12/2020",22:30:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",19,"Casado","2 Grau completo","Parda","CASAMENTO"
+2020,"23/12/2020",22:30:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",19,"Casado","2 Grau completo","Parda","CASAMENTO"
+2020,"25/12/2020",14:10:00,"Sim","LEME","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",34,"União Estável","1 Grau incompleto","Branca",NA
+2020,"28/12/2020",01:30:00,"Sim","POA","SP","Via pública","Constrangimento ilegal (art. 146)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2020,"28/12/2020",01:30:00,"Sim","POA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",37,"Solteiro","2 Grau completo","Preta",NA
+2020,"28/12/2020",01:30:00,"Sim","POA","SP","Via pública","Destruição, subtração ou ocultação de cadáver (art. 211)","Consumado","Sim","Feminino",37,"Solteiro","2 Grau completo","Preta",NA
+2020,"28/12/2020",09:07:00,"Sim","S.PAULO","SP","Via pública","Violência Doméstica","Consumado","Sim","Feminino",30,NA,NA,"Parda","ENVOLVIMENTO AMOROSO"
+2020,"28/12/2020",09:07:00,"Sim","S.PAULO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",30,NA,NA,"Parda","ENVOLVIMENTO AMOROSO"
+2020,"28/12/2020",22:50:00,"Não","S.PAULO","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",41,"Solteiro","2 Grau completo","Preta","UNIAO ESTAVEL"
+2020,"28/12/2020",22:50:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",41,"Solteiro","2 Grau completo","Preta","UNIAO ESTAVEL"
+2019,"03/01/2019",05:20:00,"Sim","PEDREIRA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",39,"Ignorado",NA,"Branca",NA
+2019,"03/01/2019",05:20:00,"Sim","PEDREIRA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",39,"Ignorado",NA,"Branca",NA
+2019,"03/01/2019",05:20:00,"Sim","PEDREIRA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",39,"Ignorado",NA,"Branca",NA
+2019,"03/01/2019",05:20:00,"Sim","PEDREIRA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",39,"Ignorado",NA,"Branca",NA
+2019,"04/01/2019",02:30:00,"Sim","PRAIA GRANDE","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",39,"União Estável",NA,"Não informada",NA
+2019,"04/01/2019",02:30:00,"Sim","PRAIA GRANDE","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",39,"União Estável",NA,"Não informada",NA
+2019,"26/12/2018",03:00:00,"Não","S.ISABEL","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",40,"Casado",NA,"Branca",NA
+2019,"04/01/2019",16:00:00,"Sim","CAMPINAS","SP","Residência","A.I.-Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",13,"Solteiro","1 Grau incompleto","Branca","ENVOLVIMENTO AMOROSO"
+2019,"04/01/2019",16:00:00,"Sim","CAMPINAS","SP","Residência","A.I.-Posse irregular de arma de fogo de uso permitido (Art.12)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2019,"05/01/2019",10:32:00,"Sim","FRANCISCO MORATO","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",39,"Solteiro",NA,"Preta","ENVOLVIMENTO AMOROSO"
+2019,"05/01/2019",10:32:00,"Sim","FRANCISCO MORATO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",39,"Solteiro",NA,"Preta","ENVOLVIMENTO AMOROSO"
+2019,"05/01/2019",10:32:00,"Sim","FRANCISCO MORATO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",39,"Solteiro",NA,"Preta","ENVOLVIMENTO AMOROSO"
+2019,"05/01/2019",10:32:00,"Sim","FRANCISCO MORATO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",39,"Solteiro",NA,"Preta","ENVOLVIMENTO AMOROSO"
+2019,"18/01/2019",13:10:00,"Não","S.JOSE DO RIO PRETO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",37,"Casado","Superior completo","Parda",NA
+2019,"19/01/2019",11:10:00,"Sim","POLONI","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",54,"União Estável","1 Grau completo","Parda",NA
+2019,"19/01/2019",11:10:00,"Sim","POLONI","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",42,"Solteiro","1 Grau incompleto","Parda",NA
+2019,"19/01/2019",11:10:00,"Sim","POLONI","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",54,"União Estável","1 Grau completo","Parda",NA
+2019,"19/01/2019",11:10:00,"Sim","POLONI","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",42,"Solteiro","1 Grau incompleto","Parda",NA
+2019,"19/01/2019",11:10:00,"Sim","POLONI","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",54,"União Estável","1 Grau completo","Parda",NA
+2019,"19/01/2019",11:10:00,"Sim","POLONI","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",42,"Solteiro","1 Grau incompleto","Parda",NA
+2019,"19/01/2019",16:21:00,"Não","OURINHOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",59,"Casado",NA,"Branca",NA
+2019,"19/01/2019",16:21:00,"Não","OURINHOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",59,"Casado",NA,"Branca",NA
+2019,"19/01/2019",16:21:00,"Não","OURINHOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",59,"Casado",NA,"Branca",NA
+2019,"22/01/2019",NA,"Não","IBATE","SP","Residência","A.I.-Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",22,"União Estável",NA,"Branca",NA
+2019,"22/01/2019",05:33:00,"Sim","S.PAULO","SP","Via pública","Violência Doméstica","Consumado",NA,NA,NA,NA,NA,NA,NA
+2019,"22/01/2019",05:33:00,"Sim","S.PAULO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",49,"Divorciado",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2019,"24/01/2019",09:40:00,"Sim","S.PAULO","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",34,"União Estável","1 Grau completo","Parda","UNIAO ESTAVEL"
+2019,"24/01/2019",09:40:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",34,"União Estável","1 Grau completo","Parda","UNIAO ESTAVEL"
+2019,"24/01/2019",09:40:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",34,"União Estável","1 Grau completo","Parda","UNIAO ESTAVEL"
+2019,"27/01/2019",15:55:00,"Sim","JUNDIAI","SP","Estabelecimento prisional","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",22,"Solteiro",NA,"Branca",NA
+2019,"27/01/2019",15:55:00,"Sim","JUNDIAI","SP","Estabelecimento prisional","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",22,"Solteiro",NA,"Branca",NA
+2019,"01/02/2019",NA,"Não","CESARIO LANGE","SP","Residência","Outros não criminal","Consumado",NA,NA,NA,NA,NA,NA,NA
+2019,"01/02/2019",NA,"Não","CESARIO LANGE","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",27,"União Estável","1 Grau completo","Parda","UNIAO ESTAVEL"
+2019,"28/01/2019",07:00:00,"Sim","SARAPUI","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",41,"União Estável",NA,"Branca","CASAMENTO"
+2019,"02/02/2019",01:09:00,"Sim","S.CAETANO DO SUL","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",38,"Solteiro","Superior completo","Branca",NA
+2019,"02/02/2019",00:50:00,"Não","S.PAULO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",27,"Solteiro",NA,"Parda",NA
+2019,"03/02/2019",18:20:00,"Sim","MAUA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",37,"Casado","Superior completo","Parda","CASAMENTO"
+2019,"03/02/2019",18:20:00,"Sim","MAUA","SP","Residência","Destruição, subtração ou ocultação de cadáver (art. 211)","Consumado","Sim","Feminino",37,"Casado","Superior completo","Parda","CASAMENTO"
+2019,"03/02/2019",21:10:00,"Não","CAJAMAR","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",29,"Solteiro","2 Grau completo","Branca","ENVOLVIMENTO AMOROSO"
+2019,"20/01/2019",02:23:00,"Não","TATUI","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",38,"Casado",NA,"Branca",NA
+2019,"20/01/2019",02:23:00,"Não","TATUI","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",38,"Casado",NA,"Branca",NA
+2019,"09/02/2019",06:30:00,"Sim","JERIQUARA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",60,"Casado",NA,"Branca","CASAMENTO"
+2019,"11/02/2019",17:00:00,"Não","BARUERI","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",56,"Casado",NA,"Branca",NA
+2019,"13/02/2019",19:40:00,"Sim","PRAIA GRANDE","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2019,"13/02/2019",19:40:00,"Sim","PRAIA GRANDE","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2019,"13/02/2019",19:40:00,"Sim","PRAIA GRANDE","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2019,"21/02/2019",02:51:00,"Sim","S.PAULO","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",26,"Solteiro",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2019,"21/02/2019",02:51:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",26,"Solteiro",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2019,"26/02/2019",17:00:00,"Sim","BARRETOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",63,"Casado","2 Grau completo","Branca","PARENTESCO"
+2019,"26/02/2019",17:00:00,"Sim","BARRETOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",63,"Casado","2 Grau completo","Branca","PARENTESCO"
+2019,"26/02/2019",08:51:00,"Não","S.CARLOS","SP","Residência","Suicídio consumado","Consumado","Sim","Masculino",35,NA,"1 Grau completo","Parda",NA
+2019,"26/02/2019",08:51:00,"Não","S.CARLOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",35,NA,"1 Grau completo","Parda",NA
+2019,"26/02/2019",08:51:00,"Não","S.CARLOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",34,"Solteiro","Superior incompleto","Parda",NA
+2019,"05/03/2019",04:30:00,"Sim","BORBOREMA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",29,"União Estável","2 Grau completo","Branca","UNIAO ESTAVEL"
+2019,"05/03/2019",04:30:00,"Sim","BORBOREMA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",29,"União Estável","2 Grau completo","Branca","UNIAO ESTAVEL"
+2019,"05/03/2019",20:00:00,"Não","GUARAREMA","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",22,"União Estável",NA,"Parda","CASAMENTO"
+2019,"05/03/2019",20:00:00,"Não","GUARAREMA","SP","Residência","Suicídio consumado","Consumado","Sim","Masculino",46,"Solteiro",NA,"Branca","CASAMENTO"
+2019,"05/03/2019",20:00:00,"Não","GUARAREMA","SP","Residência","Suicídio consumado","Consumado","Sim","Feminino",22,"União Estável",NA,"Parda","CASAMENTO"
+2019,"05/03/2019",20:00:00,"Não","GUARAREMA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",46,"Solteiro",NA,"Branca","CASAMENTO"
+2019,"05/03/2019",20:00:00,"Não","GUARAREMA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",22,"União Estável",NA,"Parda","CASAMENTO"
+2019,"06/03/2019",16:45:00,"Sim","CAMPINAS","SP","Area não ocupada","Violência Doméstica","Consumado",NA,NA,NA,NA,NA,NA,NA
+2019,"06/03/2019",16:45:00,"Sim","CAMPINAS","SP","Area não ocupada","Homicídio qualificado (art. 121, §2o.)","Tentado",NA,NA,NA,NA,NA,NA,NA
+2019,"06/03/2019",16:45:00,"Sim","CAMPINAS","SP","Area não ocupada","Homicídio qualificado (art. 121, §2o.)","Tentado",NA,NA,NA,NA,NA,NA,NA
+2019,"10/03/2019",06:30:00,"Não","S.BERNARDO DO CAMPO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",26,"União Estável",NA,"Branca",NA
+2019,"15/03/2019",02:30:00,"Sim","S.VICENTE","SP","Residência","Porte ilegal de arma de fogo de uso permitido (Art. 14)","Consumado","Sim","Feminino",28,"Solteiro",NA,"Parda","UNIAO ESTAVEL"
+2019,"15/03/2019",02:30:00,"Sim","S.VICENTE","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",28,"Solteiro",NA,"Parda","UNIAO ESTAVEL"
+2019,"15/03/2019",02:30:00,"Sim","S.VICENTE","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",28,"Solteiro",NA,"Parda","UNIAO ESTAVEL"
+2019,"15/03/2019",02:30:00,"Sim","S.VICENTE","SP","Residência","Furto qualificado (art. 155, §4o.) - ESTABELECIMENTO-OUTROS","Consumado","Sim","Feminino",28,"Solteiro",NA,"Parda","UNIAO ESTAVEL"
+2019,"16/03/2019",20:03:00,"Sim","PALMITAL","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",41,"Divorciado",NA,"Branca",NA
+2019,"16/03/2019",23:00:00,"Não","CARAPICUIBA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",46,"Solteiro",NA,"Parda",NA
+2019,"18/03/2019",12:00:00,"Não","S.ANDRE","SP","Via pública","Homicídio simples (art. 121)","Consumado","Sim","Masculino",38,"Casado",NA,"Parda",NA
+2019,"18/03/2019",19:37:00,"Sim","S.ANDRE","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",21,"Solteiro","2 Grau completo","Branca","ENVOLVIMENTO AMOROSO"
+2019,"18/03/2019",19:37:00,"Sim","S.ANDRE","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",21,"Solteiro","2 Grau completo","Branca","ENVOLVIMENTO AMOROSO"
+2019,"25/03/2019",NA,"Não","MARILIA","SP","Hospedagem","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",37,"Solteiro",NA,"Parda",NA
+2019,"13/03/2019",15:37:00,"Não","GUARULHOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",52,"Divorciado","Superior completo","Branca",NA
+2019,"28/03/2019",20:30:00,"Não","CAMPINAS","SP","Via pública","Roubo (art. 157) - VEICULO","Consumado",NA,NA,NA,NA,NA,NA,NA
+2019,"29/03/2019",NA,"Não","ITAJOBI","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",25,"União Estável","2 Grau completo","Branca","UNIAO ESTAVEL"
+2019,"29/03/2019",NA,"Não","ITAJOBI","SP","Residência","Suicídio consumado","Consumado","Sim","Masculino",29,"União Estável","Superior completo","Branca","UNIAO ESTAVEL"
+2019,"29/03/2019",NA,"Não","ITAJOBI","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",25,"União Estável","2 Grau completo","Branca","UNIAO ESTAVEL"
+2019,"09/03/2019",NA,"Não","S.PAULO","SP","Saúde","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",27,"Solteiro",NA,"Parda","UNIAO ESTAVEL"
+2019,"06/04/2019",03:00:00,"Não","GUARULHOS","SP","Restaurante e afins","Violência Doméstica","Consumado","Sim","Feminino",24,"Solteiro",NA,"Parda","ENVOLVIMENTO AMOROSO"
+2019,"06/04/2019",03:00:00,"Não","GUARULHOS","SP","Restaurante e afins","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",24,"Solteiro",NA,"Parda","ENVOLVIMENTO AMOROSO"
+2019,"06/04/2019",03:00:00,"Não","GUARULHOS","SP","Restaurante e afins","Homicídio simples (art. 121)","Tentado",NA,NA,NA,NA,NA,NA,NA
+2019,"09/04/2019",23:30:00,"Não","S.GERTRUDES","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",45,"Divorciado",NA,"Parda",NA
+2019,"10/04/2019",13:01:00,"Sim","DUMONT","SP","Via pública","Posse ou porte ilegal de arma de fogo de uso restrito (Art. 16)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2019,"10/04/2019",13:01:00,"Sim","DUMONT","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",22,"União Estável",NA,"Parda","CASAMENTO"
+2019,"12/04/2019",20:30:00,"Não","SUZANO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",19,"Solteiro",NA,"Parda",NA
+2019,"14/04/2019",17:05:00,"Não","FRANCA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",30,"Solteiro",NA,"Preta",NA
+2019,"14/04/2019",17:05:00,"Não","FRANCA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",30,"Solteiro",NA,"Preta",NA
+2019,"14/04/2019",17:05:00,"Não","FRANCA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",30,"Solteiro",NA,"Preta",NA
+2019,"16/04/2019",20:20:00,"Não","MARILIA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",20,"Solteiro",NA,"Parda",NA
+2019,"18/04/2019",07:00:00,"Não","S.BERNARDO DO CAMPO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",33,"União Estável",NA,"Parda",NA
+2019,"19/04/2019",15:41:00,"Sim","S.JOSE DOS CAMPOS","SP","Residência","Posse irregular de arma de fogo de uso permitido (Art.12)","Consumado","Sim",NA,NA,NA,NA,"Outros",NA
+2019,"19/04/2019",15:41:00,"Sim","S.JOSE DOS CAMPOS","SP","Residência","Violência Doméstica","Consumado","Sim",NA,NA,NA,NA,"Outros",NA
+2019,"19/04/2019",15:41:00,"Sim","S.JOSE DOS CAMPOS","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",70,"Ignorado",NA,"Branca","CASAMENTO"
+2019,"19/04/2019",15:41:00,"Sim","S.JOSE DOS CAMPOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim",NA,NA,NA,NA,"Outros",NA
+2019,"19/04/2019",15:41:00,"Sim","S.JOSE DOS CAMPOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",70,"Ignorado",NA,"Branca","CASAMENTO"
+2019,"19/04/2019",15:41:00,"Sim","S.JOSE DOS CAMPOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim",NA,NA,NA,NA,"Outros",NA
+2019,"19/04/2019",15:41:00,"Sim","S.JOSE DOS CAMPOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",70,"Ignorado",NA,"Branca","CASAMENTO"
+2019,"22/04/2019",14:50:00,"Não","TATUI","SP","Via pública","Suicídio consumado","Consumado","Sim","Masculino",40,NA,NA,"Branca",NA
+2019,"22/04/2019",14:50:00,"Não","TATUI","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",40,NA,NA,"Branca",NA
+2019,"22/04/2019",14:50:00,"Não","TATUI","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",46,NA,NA,"Parda",NA
+2019,"22/04/2019",21:22:00,"Sim","S.JOSE DOS CAMPOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",28,NA,NA,"Branca",NA
+2019,"22/04/2019",21:22:00,"Sim","S.JOSE DOS CAMPOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",28,NA,NA,"Branca",NA
+2019,"24/04/2019",18:40:00,"Não","MAUA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",26,"Solteiro",NA,"Parda",NA
+2019,"27/04/2019",04:30:00,"Não","S.PAULO","SP","Via pública","Captura de procurado","Consumado",NA,NA,NA,NA,NA,NA,NA
+2019,"27/04/2019",04:30:00,"Não","S.PAULO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",38,"Solteiro","Superior incompleto","Branca",NA
+2019,"27/04/2019",04:30:00,"Não","S.PAULO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",38,"Solteiro","Superior incompleto","Branca",NA
+2019,"27/04/2019",04:30:00,"Não","S.PAULO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",38,"Solteiro","Superior incompleto","Branca",NA
+2019,"28/04/2019",00:30:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",41,"Solteiro",NA,"Branca",NA
+2019,"28/04/2019",00:30:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",41,"Solteiro",NA,"Branca",NA
+2019,"28/04/2019",22:55:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",24,"Solteiro","1 Grau completo","Parda",NA
+2019,"28/04/2019",14:10:00,"Sim","S.PAULO","SP","Area não ocupada","Aborto provocado por terceiro SEM o consentimento da gestante (art. 125)","Consumado","Sim","Feminino",24,"Solteiro",NA,"Branca",NA
+2019,"28/04/2019",14:10:00,"Sim","S.PAULO","SP","Area não ocupada","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",24,"Solteiro",NA,"Branca",NA
+2019,"30/04/2019",20:00:00,"Não","COSMOPOLIS","SP","Via pública","Suicídio consumado","Consumado","Sim","Masculino",42,"Casado","1 Grau completo","Parda",NA
+2019,"30/04/2019",20:00:00,"Não","COSMOPOLIS","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",37,"Casado",NA,"Parda",NA
+2019,"30/04/2019",20:00:00,"Não","COSMOPOLIS","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",42,"Casado","1 Grau completo","Parda",NA
+2019,"01/05/2019",07:30:00,"Sim","S.PAULO","SP","Residência","Localização/Apreensão de objeto","Consumado","Sim","Feminino",18,"Solteiro",NA,"Parda",NA
+2019,"01/05/2019",07:30:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",18,"Solteiro",NA,"Parda",NA
+2019,"01/05/2019",19:00:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",54,"União Estável","2 Grau completo","Branca","UNIAO ESTAVEL"
+2019,"01/05/2019",19:00:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",54,"União Estável","2 Grau completo","Branca","UNIAO ESTAVEL"
+2019,"01/05/2019",19:00:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",54,"União Estável","2 Grau completo","Branca","UNIAO ESTAVEL"
+2019,"04/05/2019",10:30:00,"Sim","RIBEIRAO PRETO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",61,"Ignorado","1 Grau incompleto","Branca",NA
+2019,"08/05/2019",01:10:00,"Não","IBATE","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Tentado",NA,NA,NA,NA,NA,NA,NA
+2019,"10/05/2019",17:32:00,"Não","CAMPINAS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",21,"Solteiro",NA,"Parda",NA
+2019,"10/05/2019",17:32:00,"Não","CAMPINAS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",21,"Solteiro",NA,"Parda",NA
+2019,"11/05/2019",04:20:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",47,"Divorciado","1 Grau completo","Parda",NA
+2019,"11/05/2019",04:20:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",47,"Divorciado","1 Grau completo","Parda",NA
+2019,"11/05/2019",04:20:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",47,"Divorciado","1 Grau completo","Parda",NA
+2019,"11/05/2019",04:20:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",47,"Divorciado","1 Grau completo","Parda",NA
+2019,"11/05/2019",21:16:00,"Não","PIRAPORA BOM JESUS","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",28,"Solteiro",NA,"Preta","IGNORADO"
+2019,"11/05/2019",21:16:00,"Não","PIRAPORA BOM JESUS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",28,"Solteiro",NA,"Preta","IGNORADO"
+2019,"13/05/2019",NA,"Sim",NA,NA,"Residência","Homicídio qualificado (art. 121, §2o.)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2019,"13/05/2019",NA,"Sim",NA,NA,"Residência","Estupro de vulneravel (art.217-A)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2019,"19/05/2019",01:30:00,"Sim","MORRO AGUDO","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",22,"Solteiro",NA,"Parda","ENVOLVIMENTO AMOROSO"
+2019,"19/05/2019",01:30:00,"Sim","MORRO AGUDO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",22,"Solteiro",NA,"Parda","ENVOLVIMENTO AMOROSO"
+2019,"19/05/2019",05:00:00,"Não","S.PAULO","SP","Lazer e recreação","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",NA,NA,NA,"Branca",NA
+2019,"21/05/2019",11:54:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Tentado",NA,NA,NA,NA,NA,NA,NA
+2019,"21/05/2019",21:00:00,"Sim","PRESIDENTE PRUDENTE","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",56,"União Estável","1 Grau completo","Branca",NA
+2019,"25/05/2019",05:05:00,"Sim","BATATAIS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",70,"Solteiro","1 Grau incompleto","Branca",NA
+2019,"25/05/2019",05:05:00,"Sim","BATATAIS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",70,"Solteiro","1 Grau incompleto","Branca",NA
+2019,"25/05/2019",05:05:00,"Sim","BATATAIS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",70,"Solteiro","1 Grau incompleto","Branca",NA
+2019,"25/05/2019",05:05:00,"Sim","BATATAIS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",70,"Solteiro","1 Grau incompleto","Branca",NA
+2019,"26/05/2019",NA,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",43,"Ignorado",NA,"Branca",NA
+2019,"26/05/2019",NA,"Não","ADAMANTINA","SP","Rodovia/Estrada","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",30,"Solteiro","2 Grau incompleto","Branca",NA
+2019,"26/05/2019",NA,"Não","ADAMANTINA","SP","Rodovia/Estrada","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",30,"Solteiro","2 Grau incompleto","Branca",NA
+2019,"26/05/2019",NA,"Não","ADAMANTINA","SP","Rodovia/Estrada","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",30,"Solteiro","2 Grau incompleto","Branca",NA
+2019,"28/05/2019",21:10:00,"Sim","GUARULHOS","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",31,"União Estável","1 Grau completo","Branca","UNIAO ESTAVEL"
+2019,"28/05/2019",21:10:00,"Sim","GUARULHOS","SP","Residência","Suicídio tentado","Tentado",NA,NA,NA,NA,NA,NA,NA
+2019,"28/05/2019",21:10:00,"Sim","GUARULHOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",31,"União Estável","1 Grau completo","Branca","UNIAO ESTAVEL"
+2019,"30/05/2019",02:00:00,"Sim","CAJAMAR","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",28,"Solteiro",NA,"Parda","ENVOLVIMENTO AMOROSO"
+2019,"30/05/2019",02:00:00,"Sim","CAJAMAR","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",28,"Solteiro",NA,"Parda","ENVOLVIMENTO AMOROSO"
+2019,"21/05/2019",04:26:00,"Não","CAMPINAS","SP","Comércio e serviços","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",28,"Divorciado",NA,"Parda",NA
+2019,"06/06/2019",18:00:00,"Não","GUARA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",74,"Casado","1 Grau incompleto","Parda","CASAMENTO"
+2019,"06/06/2019",18:00:00,"Não","GUARA","SP","Residência","Destruição, subtração ou ocultação de cadáver (art. 211)","Consumado","Sim","Feminino",74,"Casado","1 Grau incompleto","Parda","CASAMENTO"
+2019,"09/06/2019",14:33:00,"Não","GUAIMBE","SP","Via pública","Violência Doméstica","Consumado","Sim","Feminino",45,"Solteiro","2 Grau incompleto","Parda","ENVOLVIMENTO AMOROSO"
+2019,"09/06/2019",14:33:00,"Não","GUAIMBE","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",45,"Solteiro","2 Grau incompleto","Parda","ENVOLVIMENTO AMOROSO"
+2019,"13/06/2019",18:20:00,"Não","S.PAULO","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",26,"União Estável",NA,"Parda","UNIAO ESTAVEL"
+2019,"13/06/2019",18:20:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",26,"União Estável",NA,"Parda","UNIAO ESTAVEL"
+2019,"13/06/2019",11:40:00,"Sim","SERRA NEGRA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",24,"Solteiro","1 Grau completo","Parda",NA
+2019,"17/06/2019",15:00:00,"Não","S.ANDRE","SP","Residência","Suicídio consumado","Consumado","Sim","Masculino",36,"Solteiro","2 Grau completo","Branca",NA
+2019,"17/06/2019",15:00:00,"Não","S.ANDRE","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",31,"Solteiro",NA,"Branca",NA
+2019,"17/06/2019",15:00:00,"Não","S.ANDRE","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",36,"Solteiro","2 Grau completo","Branca",NA
+2019,"17/06/2019",NA,"Não","PIRACICABA","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",16,"Solteiro",NA,"Parda","ENVOLVIMENTO AMOROSO"
+2019,"17/06/2019",NA,"Não","PIRACICABA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",16,"Solteiro",NA,"Parda","ENVOLVIMENTO AMOROSO"
+2019,"17/06/2019",NA,"Não","PIRACICABA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",16,"Solteiro",NA,"Parda","ENVOLVIMENTO AMOROSO"
+2019,"20/06/2019",05:50:00,"Não","UBATUBA","SP","Rodovia/Estrada","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",50,"Solteiro","Analfabeto","Parda",NA
+2019,"24/06/2019",19:00:00,"Não","SUZANO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",27,"Solteiro","1 Grau incompleto","Preta",NA
+2019,"23/06/2019",18:19:00,"Sim","S.PAULO","SP","Residência","Suicídio tentado","Tentado","Sim","Feminino",31,"União Estável",NA,"Branca",NA
+2019,"23/06/2019",18:19:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",31,"União Estável",NA,"Branca",NA
+2019,"30/06/2019",16:00:00,"Sim","DOIS CORREGOS","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",53,"Ignorado","1 Grau completo","Branca","IGNORADO"
+2019,"30/06/2019",16:00:00,"Sim","DOIS CORREGOS","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",53,"Ignorado","1 Grau completo","Branca","IGNORADO"
+2019,"30/06/2019",NA,"Não","POPULINA","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",25,"Solteiro","Superior completo","Branca","UNIAO ESTAVEL"
+2019,"30/06/2019",NA,"Não","POPULINA","SP","Residência","Localização/Apreensão de objeto","Consumado",NA,NA,NA,NA,NA,NA,NA
+2019,"30/06/2019",NA,"Não","POPULINA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",25,"Solteiro","Superior completo","Branca","UNIAO ESTAVEL"
+2019,"30/06/2019",NA,"Não","POPULINA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",25,"Solteiro","Superior completo","Branca","UNIAO ESTAVEL"
+2019,"13/07/2019",21:43:00,"Sim","S.PAULO","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",36,"Casado",NA,"Preta","ENVOLVIMENTO AMOROSO"
+2019,"13/07/2019",21:43:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",36,"Casado",NA,"Preta","ENVOLVIMENTO AMOROSO"
+2019,"13/07/2019",21:43:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",36,"Casado",NA,"Preta","ENVOLVIMENTO AMOROSO"
+2019,"13/07/2019",21:43:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",36,"Casado",NA,"Preta","ENVOLVIMENTO AMOROSO"
+2019,"18/07/2019",09:27:00,"Não","S.PAULO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",34,"Casado","2 Grau completo","Branca",NA
+2019,"18/07/2019",09:27:00,"Não","S.PAULO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",34,"Casado","2 Grau completo","Branca",NA
+2019,"18/07/2019",09:27:00,"Não","S.PAULO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",34,"Casado","2 Grau completo","Branca",NA
+2019,"18/07/2019",09:27:00,"Não","S.PAULO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",34,"Casado","2 Grau completo","Branca",NA
+2019,"18/07/2019",10:31:00,"Sim","SUZANO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",30,"União Estável","1 Grau incompleto","Parda","UNIAO ESTAVEL"
+2019,"21/07/2019",NA,"Não","VOTUPORANGA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",43,"Solteiro",NA,"Parda",NA
+2019,"04/08/2019",18:40:00,"Não","S.PAULO","SP","Condominio Residencial","Suicídio consumado","Consumado",NA,NA,NA,NA,NA,NA,NA
+2019,"04/08/2019",18:40:00,"Não","S.PAULO","SP","Condominio Residencial","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",24,"Solteiro",NA,"Branca",NA
+2019,"07/08/2019",07:14:00,"Sim","UBATUBA","SP","Residência","Drogas para consumo pessoal sem autorização ou em desacordo (Art.28,caput)","Consumado","Sim","Feminino",43,"União Estável",NA,"Branca","UNIAO ESTAVEL"
+2019,"07/08/2019",07:14:00,"Sim","UBATUBA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",43,"União Estável",NA,"Branca","UNIAO ESTAVEL"
+2019,"07/08/2019",07:14:00,"Sim","UBATUBA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",43,"União Estável",NA,"Branca","UNIAO ESTAVEL"
+2019,"09/08/2019",12:30:00,"Não","ARARAQUARA","SP","Comércio e serviços","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",20,"Solteiro","1 Grau completo","Branca",NA
+2019,"09/08/2019",12:30:00,"Não","ARARAQUARA","SP","Comércio e serviços","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",20,"Solteiro","1 Grau completo","Branca",NA
+2019,"09/08/2019",12:30:00,"Não","ARARAQUARA","SP","Comércio e serviços","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",20,"Solteiro","1 Grau completo","Branca",NA
+2019,"27/07/2019",18:00:00,"Não","S.PAULO","SP","Via pública","Violência Doméstica","Consumado","Sim","Feminino",48,"União Estável",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2019,"27/07/2019",18:00:00,"Não","S.PAULO","SP","Via pública","Comunicação de óbito","Consumado","Sim","Feminino",48,"União Estável",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2019,"27/07/2019",18:00:00,"Não","S.PAULO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",48,"União Estável",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2019,"11/08/2019",10:51:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",33,"Solteiro","Superior completo","Parda",NA
+2019,"12/08/2019",09:00:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",22,"União Estável","1 Grau incompleto","Parda",NA
+2019,"12/08/2019",13:50:00,"Sim","MATAO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",24,"Solteiro","1 Grau completo","Parda",NA
+2019,"12/08/2019",13:50:00,"Sim","MATAO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",49,"Ignorado",NA,"Parda","ENVOLVIMENTO AMOROSO"
+2019,"17/08/2019",10:16:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",19,"Solteiro",NA,"Branca",NA
+2019,"18/08/2019",16:25:00,"Não","PIRACICABA","SP","Residência","Violência Doméstica","Tentado",NA,NA,NA,NA,NA,NA,NA
+2019,"18/08/2019",16:25:00,"Não","PIRACICABA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Tentado",NA,NA,NA,NA,NA,NA,NA
+2019,"24/08/2019",08:55:00,"Não","S.PAULO","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",69,"Casado","2 Grau completo","Branca","PARENTESCO"
+2019,"24/08/2019",08:55:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",69,"Casado","2 Grau completo","Branca","PARENTESCO"
+2019,"26/08/2019",00:00:00,"Não","COTIA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",47,"Casado",NA,"Branca",NA
+2019,"28/08/2019",16:59:00,"Sim","AGUDOS","SP","Residência","A.I.-Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",18,"Solteiro",NA,"Branca",NA
+2019,"28/08/2019",16:59:00,"Sim","AGUDOS","SP","Residência","A.I.-Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",18,"Solteiro",NA,"Branca",NA
+2019,"28/08/2019",16:59:00,"Sim","AGUDOS","SP","Residência","A.I.-Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",18,"Solteiro",NA,"Branca",NA
+2019,"28/08/2019",16:59:00,"Sim","AGUDOS","SP","Residência","A.I.-Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",18,"Solteiro",NA,"Branca",NA
+2019,"30/08/2019",08:30:00,"Não","LIMEIRA","SP","Comércio e serviços","Suicídio consumado","Consumado","Sim","Masculino",35,"Solteiro",NA,"Branca",NA
+2019,"30/08/2019",08:30:00,"Não","LIMEIRA","SP","Comércio e serviços","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",28,"Divorciado",NA,"Branca",NA
+2019,"01/09/2019",01:58:00,"Não","BARUERI","SP","Comércio e serviços","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",37,"Casado",NA,"Branca",NA
+2019,"01/09/2019",19:00:00,"Sim","S.CARLOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",32,"Casado","2 Grau incompleto","Parda","CASAMENTO"
+2019,"03/09/2019",11:00:00,"Sim","GUARATINGUETA","SP","Residência","Auto lesão","Consumado",NA,NA,NA,NA,NA,NA,NA
+2019,"03/09/2019",11:00:00,"Sim","GUARATINGUETA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",26,"Solteiro",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2019,"03/09/2019",23:15:00,"Não","CRUZEIRO","SP","Residência","Suicídio consumado","Consumado","Sim","Masculino",30,"União Estável","Superior completo","Branca",NA
+2019,"03/09/2019",23:15:00,"Não","CRUZEIRO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",30,"União Estável","Superior completo","Branca",NA
+2019,"03/09/2019",23:15:00,"Não","CRUZEIRO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",29,"União Estável","2 Grau completo","Branca",NA
+2019,"03/09/2019",23:15:00,"Não","CRUZEIRO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",10,"Solteiro","1 Grau incompleto","Branca",NA
+2019,"05/09/2019",19:08:00,"Não","ITAPOLIS","SP","Via pública","Violência Doméstica","Consumado","Sim","Feminino",19,"Solteiro",NA,"Parda","ENVOLVIMENTO AMOROSO"
+2019,"05/09/2019",19:08:00,"Não","ITAPOLIS","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",19,"Solteiro",NA,"Parda","ENVOLVIMENTO AMOROSO"
+2019,"08/09/2019",04:10:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",25,"Solteiro","2 Grau completo","Branca",NA
+2019,"08/09/2019",03:30:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Tentado",NA,NA,NA,NA,NA,NA,NA
+2019,"08/09/2019",03:30:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Tentado",NA,NA,NA,NA,NA,NA,NA
+2019,"10/09/2019",00:30:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",31,"Solteiro","1 Grau incompleto","Preta",NA
+2019,"10/09/2019",21:15:00,"Não","ADAMANTINA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",29,"Ignorado",NA,"Branca","CONHECIDO"
+2019,"10/09/2019",21:15:00,"Não","ADAMANTINA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",29,"Ignorado",NA,"Branca","CONHECIDO"
+2019,"10/09/2019",21:15:00,"Não","ADAMANTINA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",29,"Ignorado",NA,"Branca","CONHECIDO"
+2019,"09/09/2019",20:00:00,"Sim","IBIRA","SP","Rodovia/Estrada","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",22,"Solteiro",NA,"Branca",NA
+2019,"09/09/2019",20:00:00,"Sim","IBIRA","SP","Rodovia/Estrada","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",22,"Solteiro",NA,"Branca",NA
+2019,"09/09/2019",20:00:00,"Sim","IBIRA","SP","Rodovia/Estrada","Destruição, subtração ou ocultação de cadáver (art. 211)","Consumado","Sim","Feminino",22,"Solteiro",NA,"Branca",NA
+2019,"12/09/2019",12:25:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",71,"Solteiro","1 Grau incompleto","Branca","PARENTESCO"
+2019,"12/09/2019",12:25:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",71,"Solteiro","1 Grau incompleto","Branca","PARENTESCO"
+2019,"12/09/2019",12:25:00,"Sim","S.PAULO","SP","Residência","Furto (art. 155) - OUTROS","Consumado",NA,NA,NA,NA,NA,NA,NA
+2019,"12/09/2019",12:25:00,"Sim","S.PAULO","SP","Residência","Destruição, subtração ou ocultação de cadáver (art. 211)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2019,"15/09/2019",13:00:00,"Sim","S.BERNARDO DO CAMPO","SP","Via pública","Violência Doméstica","Consumado","Sim","Feminino",38,"Casado","2 Grau completo","Branca","UNIAO ESTAVEL"
+2019,"15/09/2019",13:00:00,"Sim","S.BERNARDO DO CAMPO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",38,"Casado","2 Grau completo","Branca","UNIAO ESTAVEL"
+2019,"15/09/2019",10:30:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",28,"Casado",NA,"Parda",NA
+2019,"21/09/2019",17:30:00,"Não","FERRAZ DE VASCONCELOS","SP","Unidade rural","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",NA,NA,NA,"Não informada",NA
+2019,"21/09/2019",17:30:00,"Não","FERRAZ DE VASCONCELOS","SP","Unidade rural","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",NA,NA,NA,"Não informada",NA
+2019,"21/09/2019",17:30:00,"Não","FERRAZ DE VASCONCELOS","SP","Unidade rural","Destruição, subtração ou ocultação de cadáver (art. 211)","Consumado","Sim","Feminino",NA,NA,NA,"Não informada",NA
+2019,"21/09/2019",17:30:00,"Não","FERRAZ DE VASCONCELOS","SP","Unidade rural","Destruição, subtração ou ocultação de cadáver (art. 211)","Consumado","Sim","Feminino",NA,NA,NA,"Não informada",NA
+2019,"22/09/2019",06:30:00,"Sim","S.PAULO","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",24,"União Estável","1 Grau completo","Branca","UNIAO ESTAVEL"
+2019,"22/09/2019",06:30:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",24,"União Estável","1 Grau completo","Branca","UNIAO ESTAVEL"
+2019,"28/09/2019",14:00:00,"Sim","BAURU","SP","Residência","Localização/Apreensão de objeto","Consumado","Sim","Feminino",20,"Solteiro","2 Grau completo","Parda",NA
+2019,"28/09/2019",14:00:00,"Sim","BAURU","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",20,"Solteiro","2 Grau completo","Parda",NA
+2019,"28/09/2019",14:00:00,"Sim","BAURU","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",20,"Solteiro","2 Grau completo","Parda",NA
+2019,"29/09/2019",02:00:00,"Não","CAJAMAR","SP","Residência","Suicídio consumado","Consumado",NA,NA,NA,NA,NA,NA,NA
+2019,"29/09/2019",02:00:00,"Não","CAJAMAR","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2019,"29/09/2019",02:00:00,"Não","CAJAMAR","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2019,"29/09/2019",07:00:00,"Sim","PIRASSUNUNGA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Tentado",NA,NA,NA,NA,NA,NA,NA
+2019,"05/10/2019",14:50:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",47,"Solteiro",NA,"Parda","UNIAO ESTAVEL"
+2019,"05/10/2019",14:50:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",47,"Solteiro",NA,"Parda","UNIAO ESTAVEL"
+2019,"06/10/2019",NA,"Não","RIBEIRAO PRETO","SP","Residência","Suicídio consumado","Consumado","Sim","Masculino",37,"Ignorado",NA,"Branca",NA
+2019,"06/10/2019",NA,"Não","RIBEIRAO PRETO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",28,"Solteiro",NA,"Branca",NA
+2019,"06/10/2019",NA,"Não","RIBEIRAO PRETO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",37,"Ignorado",NA,"Branca",NA
+2019,"12/10/2019",11:00:00,"Não","S.BERNARDO DO CAMPO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",56,"Casado",NA,"Não informada",NA
+2019,"15/10/2019",19:10:00,"Sim","S.JOSE DO RIO PRETO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",72,"Divorciado",NA,"Branca","PARENTESCO"
+2019,"15/10/2019",19:10:00,"Sim","S.JOSE DO RIO PRETO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",72,"Divorciado",NA,"Branca","PARENTESCO"
+2019,"15/10/2019",19:10:00,"Sim","S.JOSE DO RIO PRETO","SP","Residência","Lesão corporal (art. 129 §12)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2019,"15/10/2019",19:10:00,"Sim","S.JOSE DO RIO PRETO","SP","Residência","Resistência (art. 329)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2019,"20/10/2019",18:40:00,"Sim","S.JOSE DO RIO PRETO","SP","Residência","Porte ilegal de arma de fogo de uso permitido (Art. 14)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2019,"20/10/2019",18:40:00,"Sim","S.JOSE DO RIO PRETO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",31,"Casado",NA,"Branca","CASAMENTO"
+2019,"20/10/2019",18:40:00,"Sim","S.JOSE DO RIO PRETO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",31,"Casado",NA,"Branca","CASAMENTO"
+2019,"21/10/2019",08:00:00,"Não","PERUIBE","SP","Via pública","Suicídio consumado","Consumado","Sim","Masculino",41,"Casado","2 Grau completo","Parda",NA
+2019,"21/10/2019",08:00:00,"Não","PERUIBE","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",26,"Solteiro",NA,"Branca",NA
+2019,"21/10/2019",08:00:00,"Não","PERUIBE","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",41,"Casado","2 Grau completo","Parda",NA
+2019,"22/10/2019",NA,"Não","S.PEDRO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",56,"Divorciado","2 Grau completo","Branca",NA
+2019,"22/10/2019",NA,"Não","S.PEDRO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",56,"Divorciado","2 Grau completo","Branca",NA
+2019,"23/10/2019",18:40:00,"Não","HORTOLANDIA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",26,"Casado","2 Grau completo","Branca",NA
+2019,"23/10/2019",18:40:00,"Não","HORTOLANDIA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",29,"Solteiro","2 Grau completo","Parda",NA
+2019,"24/10/2019",09:58:00,"Sim","PIRACICABA","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",32,"Casado","2 Grau completo","Branca","CASAMENTO"
+2019,"24/10/2019",09:58:00,"Sim","PIRACICABA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",32,"Casado","2 Grau completo","Branca","CASAMENTO"
+2019,"24/10/2019",09:58:00,"Sim","PIRACICABA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",32,"Casado","2 Grau completo","Branca","CASAMENTO"
+2019,"24/10/2019",09:58:00,"Sim","PIRACICABA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",32,"Casado","2 Grau completo","Branca","CASAMENTO"
+2019,"26/10/2019",12:36:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",52,"Solteiro",NA,"Preta",NA
+2019,"26/10/2019",05:52:00,"Não","S.PAULO","SP","Favela","Violência Doméstica","Consumado","Sim","Feminino",29,"Solteiro","2 Grau completo","Branca","UNIAO ESTAVEL"
+2019,"26/10/2019",05:52:00,"Não","S.PAULO","SP","Favela","Suicídio consumado","Consumado","Sim","Masculino",36,NA,"Superior incompleto","Branca","UNIAO ESTAVEL,PARENTESCO"
+2019,"26/10/2019",05:52:00,"Não","S.PAULO","SP","Favela","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",29,"Solteiro","2 Grau completo","Branca","UNIAO ESTAVEL"
+2019,"26/10/2019",05:52:00,"Não","S.PAULO","SP","Favela","Homicídio simples (art. 121)","Tentado",NA,NA,NA,NA,NA,NA,NA
+2019,"01/10/2019",15:17:00,"Sim","S.PAULO","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",87,NA,NA,"Branca","PARENTESCO"
+2019,"01/10/2019",15:17:00,"Sim","S.PAULO","SP","Residência","Praticar ato de abuso a animais (Art. 32)","Consumado","Sim","Feminino",87,NA,NA,"Branca","PARENTESCO"
+2019,"01/10/2019",15:17:00,"Sim","S.PAULO","SP","Residência","Suicídio tentado","Tentado","Sim","Feminino",87,NA,NA,"Branca","PARENTESCO"
+2019,"01/10/2019",15:17:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",87,NA,NA,"Branca","PARENTESCO"
+2019,"29/10/2019",19:00:00,"Sim","CAMPINAS","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",38,"Ignorado",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2019,"29/10/2019",19:00:00,"Sim","CAMPINAS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",38,"Ignorado",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2019,"29/10/2019",19:00:00,"Sim","CAMPINAS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",38,"Ignorado",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2019,"19/10/2019",23:20:00,"Não","MATAO","SP","Via pública","Violência Doméstica","Consumado","Sim","Feminino",25,"Casado",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2019,"19/10/2019",23:20:00,"Não","MATAO","SP","Via pública","Suicídio consumado","Consumado","Sim","Masculino",50,"Solteiro",NA,"Parda","ENVOLVIMENTO AMOROSO"
+2019,"19/10/2019",23:20:00,"Não","MATAO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",25,"Casado",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2019,"12/10/2019",16:52:00,"Não","S.PAULO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",30,"Solteiro","2 Grau completo","Parda",NA
+2019,"31/10/2019",NA,"Não","TAUBATE","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",47,NA,NA,"Parda",NA
+2019,"31/10/2019",15:52:00,"Sim","OLEO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",40,"Solteiro","2 Grau completo","Branca","UNIAO ESTAVEL"
+2019,"31/10/2019",15:52:00,"Sim","OLEO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",40,"Solteiro","2 Grau completo","Branca","UNIAO ESTAVEL"
+2019,"03/11/2019",06:00:00,"Não","MARILIA","SP","Via pública","Morte suspeita","Consumado","Sim","Masculino",33,"Solteiro",NA,"Branca",NA
+2019,"03/11/2019",06:00:00,"Não","MARILIA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",33,"Solteiro",NA,"Branca",NA
+2019,"03/11/2019",06:00:00,"Não","MARILIA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",31,"Ignorado",NA,"Branca",NA
+2019,"03/11/2019",06:00:00,"Não","MARILIA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",21,"Solteiro",NA,"Parda",NA
+2019,"03/11/2019",06:00:00,"Não","MARILIA","SP","Via pública","Homicídio simples (art. 121)","Consumado","Sim","Masculino",33,"Solteiro",NA,"Branca",NA
+2019,"03/11/2019",06:00:00,"Não","MARILIA","SP","Via pública","Homicídio simples (art. 121)","Consumado","Sim","Feminino",31,"Ignorado",NA,"Branca",NA
+2019,"03/11/2019",06:00:00,"Não","MARILIA","SP","Via pública","Homicídio simples (art. 121)","Consumado","Sim","Masculino",21,"Solteiro",NA,"Parda",NA
+2019,"04/11/2019",18:00:00,"Não","BARRETOS","SP","Residência","Suicídio consumado","Consumado","Sim","Masculino",55,NA,NA,"Parda",NA
+2019,"04/11/2019",18:00:00,"Não","BARRETOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",36,"Solteiro",NA,"Branca",NA
+2019,"04/11/2019",18:00:00,"Não","BARRETOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",55,NA,NA,"Parda",NA
+2019,"17/10/2019",10:00:00,"Não","JACAREI","SP","Unidade rural","Violência Doméstica","Consumado","Sim","Feminino",57,"Solteiro",NA,"Parda","ENVOLVIMENTO AMOROSO"
+2019,"17/10/2019",10:00:00,"Não","JACAREI","SP","Unidade rural","Suicídio consumado","Consumado","Sim","Masculino",49,"Solteiro",NA,"Parda","ENVOLVIMENTO AMOROSO"
+2019,"17/10/2019",10:00:00,"Não","JACAREI","SP","Unidade rural","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",57,"Solteiro",NA,"Parda","ENVOLVIMENTO AMOROSO"
+2019,"06/11/2019",20:41:00,"Não","MOGI MIRIM","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",42,"Divorciado","1 Grau completo","Branca","UNIAO ESTAVEL"
+2019,"07/11/2019",03:10:00,"Sim","MOGI DAS CRUZES","SP","Residência","Violência Doméstica","Consumado",NA,NA,NA,NA,NA,NA,NA
+2019,"07/11/2019",03:10:00,"Sim","MOGI DAS CRUZES","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Tentado",NA,NA,NA,NA,NA,NA,NA
+2019,"07/11/2019",03:10:00,"Sim","MOGI DAS CRUZES","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Tentado",NA,NA,NA,NA,NA,NA,NA
+2019,"07/11/2019",03:10:00,"Sim","MOGI DAS CRUZES","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Tentado",NA,NA,NA,NA,NA,NA,NA
+2019,"07/11/2019",22:15:00,"Não","S.PAULO","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",55,"Viuvo",NA,"Parda","PARENTESCO"
+2019,"07/11/2019",22:15:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",55,"Viuvo",NA,"Parda","PARENTESCO"
+2019,"07/11/2019",22:15:00,"Não","S.PAULO","SP","Residência","Roubo (art. 157) - RESIDENCIA","Consumado","Sim","Feminino",55,"Viuvo",NA,"Parda","PARENTESCO"
+2019,"10/11/2019",03:00:00,"Não","OSASCO","SP","Via pública","Violência Doméstica","Consumado",NA,NA,NA,NA,NA,NA,NA
+2019,"10/11/2019",03:00:00,"Não","OSASCO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",19,"União Estável","1 Grau completo","Branca","UNIAO ESTAVEL"
+2019,"14/11/2019",19:42:00,"Não","S.MANUEL","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",22,"Solteiro",NA,"Branca",NA
+2019,"14/11/2019",23:20:00,"Não","S.PAULO","SP","Residência","Suicídio consumado","Consumado","Sim","Masculino",47,"Divorciado","1 Grau completo","Branca",NA
+2019,"14/11/2019",23:20:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Tentado","Sim","Masculino",47,"Divorciado","1 Grau completo","Branca",NA
+2019,"16/11/2019",09:16:00,"Sim","PIRACICABA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",36,"Solteiro","1 Grau completo","Branca",NA
+2019,"19/11/2019",NA,"Sim","TAUBATE","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",27,"Solteiro","1 Grau completo","Branca",NA
+2019,"20/11/2019",NA,"Sim","AGUDOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",31,"Solteiro",NA,"Branca",NA
+2019,"20/11/2019",NA,"Sim","AGUDOS","SP","Residência","Destruição, subtração ou ocultação de cadáver (art. 211)","Consumado","Sim","Feminino",31,"Solteiro",NA,"Branca",NA
+2019,"21/11/2019",23:40:00,"Não","ARARAQUARA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",25,"Solteiro","2 Grau completo","Parda",NA
+2019,"21/11/2019",23:40:00,"Não","ARARAQUARA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",25,"Solteiro","2 Grau completo","Parda",NA
+2019,"23/11/2019",23:00:00,"Não","PIRAJUI","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",40,"Solteiro","1 Grau completo","Branca",NA
+2019,"24/11/2019",15:05:00,"Sim","JAU","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",40,"Solteiro",NA,"Preta",NA
+2019,"22/11/2019",10:30:00,"Não","DOIS CORREGOS","SP","Residência","Captura de procurado","Consumado",NA,NA,NA,NA,NA,NA,NA
+2019,"22/11/2019",10:30:00,"Não","DOIS CORREGOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",30,"Ignorado",NA,"Branca","UNIAO ESTAVEL"
+2019,"23/11/2019",20:48:00,"Não","MOGI MIRIM","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",30,"Ignorado",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2019,"23/11/2019",20:48:00,"Não","MOGI MIRIM","SP","Residência","Suicídio consumado","Consumado","Sim","Masculino",36,"Ignorado",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2019,"23/11/2019",20:48:00,"Não","MOGI MIRIM","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",36,"Ignorado",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2019,"23/11/2019",20:48:00,"Não","MOGI MIRIM","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",30,"Ignorado",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2019,"27/11/2019",04:56:00,"Sim","GUARULHOS","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",26,"Solteiro",NA,"Branca",NA
+2019,"07/12/2019",08:00:00,"Não","ITAPORANGA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",51,"Divorciado",NA,"Branca",NA
+2019,"07/12/2019",17:31:00,"Sim","MORRO AGUDO","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",20,"União Estável","1 Grau incompleto","Parda","UNIAO ESTAVEL"
+2019,"07/12/2019",17:31:00,"Sim","MORRO AGUDO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",20,"União Estável","1 Grau incompleto","Parda","UNIAO ESTAVEL"
+2019,"09/12/2019",08:40:00,"Não","PIRACICABA","SP","Comércio e serviços","Suicídio consumado","Consumado","Sim","Feminino",33,"Solteiro","2 Grau completo","Branca","UNIAO ESTAVEL"
+2019,"09/12/2019",08:40:00,"Não","PIRACICABA","SP","Comércio e serviços","Suicídio consumado","Consumado","Sim","Masculino",49,"Solteiro","2 Grau completo","Branca","UNIAO ESTAVEL"
+2019,"09/12/2019",08:40:00,"Não","PIRACICABA","SP","Comércio e serviços","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",33,"Solteiro","2 Grau completo","Branca","UNIAO ESTAVEL"
+2019,"09/12/2019",08:40:00,"Não","PIRACICABA","SP","Comércio e serviços","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",49,"Solteiro","2 Grau completo","Branca","UNIAO ESTAVEL"
+2019,"09/12/2019",07:46:00,"Não","S.CAETANO DO SUL","SP","Via pública","Posse ou porte ilegal de arma de fogo de uso restrito (Art. 16)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2019,"09/12/2019",07:46:00,"Não","S.CAETANO DO SUL","SP","Via pública","Localização/Apreensão de objeto","Consumado",NA,NA,NA,NA,NA,NA,NA
+2019,"09/12/2019",07:46:00,"Não","S.CAETANO DO SUL","SP","Via pública","Suicídio consumado","Consumado","Sim","Masculino",42,"Casado","2 Grau completo","Parda",NA
+2019,"09/12/2019",07:46:00,"Não","S.CAETANO DO SUL","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",42,"Casado","Superior completo","Amarela",NA
+2019,"09/12/2019",07:46:00,"Não","S.CAETANO DO SUL","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",42,"Casado","Superior completo","Amarela",NA
+2019,"11/12/2019",06:45:00,"Não","ITANHAEM","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",43,"Casado","1 Grau completo","Branca","CASAMENTO"
+2019,"11/12/2019",06:45:00,"Não","ITANHAEM","SP","Residência","Violência Doméstica","Consumado","Sim","Masculino",46,"Casado","1 Grau completo","Parda","CASAMENTO"
+2019,"11/12/2019",06:45:00,"Não","ITANHAEM","SP","Residência","Suicídio consumado","Consumado","Sim","Masculino",46,"Casado","1 Grau completo","Parda","CASAMENTO"
+2019,"11/12/2019",06:45:00,"Não","ITANHAEM","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",43,"Casado","1 Grau completo","Branca","CASAMENTO"
+2019,"11/12/2019",06:45:00,"Não","ITANHAEM","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",46,"Casado","1 Grau completo","Parda","CASAMENTO"
+2019,"13/12/2019",17:19:00,"Não","CAMPINAS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",30,NA,"Superior incompleto","Branca",NA
+2019,"17/12/2019",22:50:00,"Sim","OSASCO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",27,"Solteiro",NA,"Parda","UNIAO ESTAVEL"
+2019,"17/12/2019",22:50:00,"Sim","OSASCO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",27,"Solteiro",NA,"Parda","UNIAO ESTAVEL"
+2019,"18/12/2019",23:55:00,"Sim","ARARAQUARA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",44,"Ignorado","1 Grau completo","Parda","UNIAO ESTAVEL"
+2019,"19/12/2019",23:46:00,"Sim","S.VICENTE","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",36,"Solteiro",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2019,"19/12/2019",23:46:00,"Sim","S.VICENTE","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",36,"Solteiro",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2019,"23/12/2019",14:05:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",88,NA,NA,"Preta",NA
+2019,"23/12/2019",14:05:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",53,"Solteiro","Superior completo","Preta",NA
+2019,"23/12/2019",14:05:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",84,"Solteiro",NA,"Preta",NA
+2019,"24/12/2019",10:30:00,"Sim","MIRASSOL","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",19,"Solteiro",NA,"Branca","UNIAO ESTAVEL"
+2019,"24/12/2019",10:40:00,"Sim","LEME","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",68,"Casado",NA,"Branca","CASAMENTO"
+2019,"24/12/2019",14:12:00,"Sim","VARZEA PAULISTA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",23,"Casado","Superior completo","Branca",NA
+2019,"24/12/2019",14:12:00,"Sim","VARZEA PAULISTA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",23,"Casado","Superior completo","Branca",NA
+2019,"24/12/2019",14:12:00,"Sim","VARZEA PAULISTA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",23,"Casado","Superior completo","Branca",NA
+2019,"24/12/2019",14:12:00,"Sim","VARZEA PAULISTA","SP","Residência","Destruição, subtração ou ocultação de cadáver (art. 211)","Consumado","Sim","Feminino",23,"Casado","Superior completo","Branca",NA
+2019,"25/12/2019",04:30:00,"Sim","CASA BRANCA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",29,"Casado",NA,"Preta",NA
+2019,"25/12/2019",03:38:00,"Sim","ARARAQUARA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",18,"Solteiro",NA,"Branca",NA
+2019,"25/12/2019",03:38:00,"Sim","ARARAQUARA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",34,"Solteiro",NA,"Branca",NA
+2019,"26/12/2019",05:00:00,"Sim","S.RITA PASSA QUATRO","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",71,"Casado","2 Grau completo","Branca","PARENTESCO"
+2019,"26/12/2019",05:00:00,"Sim","S.RITA PASSA QUATRO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",71,"Casado","2 Grau completo","Branca","PARENTESCO"
+2019,"26/12/2019",05:00:00,"Sim","S.RITA PASSA QUATRO","SP","Residência","Homicídio simples (art. 121)","Consumado","Sim","Masculino",76,"Casado","Superior completo","Branca","PARENTESCO"
+2019,"26/12/2019",03:11:00,"Sim","VOTORANTIM","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",36,"Casado","2 Grau completo","Branca","ENVOLVIMENTO AMOROSO"
+2019,"26/12/2019",03:11:00,"Sim","VOTORANTIM","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",36,"Casado","2 Grau completo","Branca","ENVOLVIMENTO AMOROSO"
+2019,"26/12/2019",19:46:00,"Não","S.BRANCA","SP","Comércio e serviços","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",38,"Solteiro","1 Grau incompleto","Branca",NA
+2019,"27/12/2019",10:00:00,"Sim","POA","SP","Estabelecimento de ensino","Localização/Apreensão de objeto","Consumado","Sim","Feminino",16,"Solteiro",NA,"Branca",NA
+2019,"27/12/2019",10:00:00,"Sim","POA","SP","Estabelecimento de ensino","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",16,"Solteiro",NA,"Branca",NA
+2019,"28/12/2019",16:30:00,"Não","REGENTE FEIJO","SP","Via pública","Suicídio consumado","Consumado","Sim","Masculino",28,"Casado",NA,"Parda","CASAMENTO"
+2019,"28/12/2019",16:30:00,"Não","REGENTE FEIJO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",21,"Casado",NA,"Parda","CASAMENTO"
+2019,"29/12/2019",02:00:00,"Não","S.PAULO","SP","Residência","A.I.-Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",17,"Solteiro",NA,"Parda",NA
+2019,"29/12/2019",02:00:00,"Não","S.PAULO","SP","Residência","A.I.-Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",17,"Solteiro",NA,"Parda",NA
+2018,"03/01/2018",12:45:00,"Não","SOROCABA","SP","Residência","Suicídio consumado","Consumado","Sim","Masculino",48,NA,NA,"Branca","ENVOLVIMENTO AMOROSO"
+2018,"03/01/2018",12:45:00,"Não","SOROCABA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",48,NA,NA,"Branca",NA
+2018,"03/01/2018",12:45:00,"Não","SOROCABA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",46,"Ignorado",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2018,"07/01/2018",00:50:00,"Sim","LINS","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",44,"Casado","1 Grau completo","Branca","CASAMENTO"
+2018,"07/01/2018",00:50:00,"Sim","LINS","SP","Residência","Suicídio tentado","Tentado","Sim","Feminino",44,"Casado","1 Grau completo","Branca","CASAMENTO"
+2018,"07/01/2018",00:50:00,"Sim","LINS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",44,"Casado","1 Grau completo","Branca","CASAMENTO"
+2018,"15/01/2018",18:30:00,"Não","BRAGANCA PAULISTA","SP","Unidade rural","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",22,"Casado",NA,"Branca",NA
+2018,"16/01/2018",NA,"Sim","PIRACICABA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",56,"Casado","1 Grau incompleto","Parda",NA
+2018,"28/01/2018",12:34:00,"Sim","ENGENHEIRO COELHO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",45,"Divorciado","1 Grau incompleto","Parda",NA
+2018,"02/02/2018",23:00:00,"Não","ITATIBA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",18,"Solteiro",NA,"Branca",NA
+2018,"05/02/2018",01:18:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",28,NA,NA,"Branca",NA
+2018,"05/02/2018",01:18:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",28,NA,NA,"Branca",NA
+2018,"05/02/2018",01:18:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",28,NA,NA,"Branca",NA
+2018,"10/02/2018",14:00:00,"Sim","S.PAULO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",31,"Casado","1 Grau completo","Parda",NA
+2018,"11/02/2018",02:45:00,"Sim","S.PAULO","SP","Via pública","Posse ou porte ilegal de arma de fogo de uso restrito (Art. 16)","Consumado","Sim","Feminino",23,"Solteiro","2 Grau completo","Branca",NA
+2018,"11/02/2018",02:45:00,"Sim","S.PAULO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",23,"Solteiro","2 Grau completo","Branca",NA
+2018,"13/02/2018",10:11:00,"Não","CANAS","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",19,"Solteiro",NA,"Branca",NA
+2018,"15/02/2018",02:00:00,"Sim","S.PAULO","SP","Residência","Suicídio tentado","Tentado",NA,NA,NA,NA,NA,NA,NA
+2018,"15/02/2018",02:00:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",77,"Divorciado",NA,"Branca",NA
+2018,"18/02/2018",22:13:00,"Sim","BOTUCATU","SP","Via pública","Violência Doméstica","Consumado","Sim","Feminino",20,"União Estável",NA,"Parda","UNIAO ESTAVEL"
+2018,"18/02/2018",22:13:00,"Sim","BOTUCATU","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",20,"União Estável",NA,"Parda","UNIAO ESTAVEL"
+2018,"24/02/2018",13:50:00,"Não","S.JOSE DOS CAMPOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",39,"Solteiro","1 Grau completo","Branca",NA
+2018,"24/02/2018",13:50:00,"Não","S.JOSE DOS CAMPOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",39,"Solteiro","1 Grau completo","Branca",NA
+2018,"24/02/2018",13:50:00,"Não","S.JOSE DOS CAMPOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",39,"Solteiro","1 Grau completo","Branca",NA
+2018,"08/03/2018",01:46:00,"Sim","ITAQUAQUECETUBA","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",26,"Solteiro","2 Grau completo","Parda","UNIAO ESTAVEL"
+2018,"08/03/2018",01:46:00,"Sim","ITAQUAQUECETUBA","SP","Residência","Ameaça (art. 147)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2018,"08/03/2018",01:46:00,"Sim","ITAQUAQUECETUBA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",26,"Solteiro","2 Grau completo","Parda","UNIAO ESTAVEL"
+2018,"13/03/2018",11:42:00,"Não","FRANCO DA ROCHA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",34,"Solteiro",NA,"Preta",NA
+2018,"13/03/2018",15:00:00,"Não","CAMPINAS","SP","Unidade rural","Encontro de Pessoa","Consumado","Sim","Feminino",24,"Solteiro",NA,"Branca",NA
+2018,"13/03/2018",15:00:00,"Não","CAMPINAS","SP","Unidade rural","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",24,"Solteiro",NA,"Branca",NA
+2018,"14/03/2018",NA,"Não","TABOAO DA SERRA","SP","Residência","Suicídio consumado","Consumado","Sim","Masculino",35,NA,NA,"Branca",NA
+2018,"14/03/2018",NA,"Não","TABOAO DA SERRA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",35,NA,NA,"Branca",NA
+2018,"14/03/2018",NA,"Não","TABOAO DA SERRA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",36,"Casado",NA,"Branca",NA
+2018,"14/03/2018",NA,"Não","TABOAO DA SERRA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Tentado","Sim","Masculino",35,NA,NA,"Branca",NA
+2018,"14/03/2018",NA,"Não","TABOAO DA SERRA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Tentado","Sim","Feminino",36,"Casado",NA,"Branca",NA
+2018,"17/03/2018",01:34:00,"Não","GUARULHOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",50,"Solteiro",NA,"Preta",NA
+2018,"24/03/2018",NA,"Sim","INDAIATUBA","SP","Via pública","Embriaguez ao volante (Art. 306)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2018,"24/03/2018",NA,"Sim","INDAIATUBA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",39,"Casado",NA,"Branca",NA
+2018,"24/03/2018",NA,"Sim","INDAIATUBA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",42,NA,"Analfabeto","Parda","ENVOLVIMENTO AMOROSO"
+2018,"27/03/2018",22:10:00,"Não","S.ANDRE","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",41,"Solteiro",NA,"Parda",NA
+2018,"01/04/2018",11:30:00,"Não","GUARA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",17,"Solteiro","2 Grau completo","Parda",NA
+2018,"01/04/2018",11:30:00,"Não","GUARA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",17,"Solteiro","2 Grau completo","Parda",NA
+2018,"01/04/2018",20:55:00,"Sim","OSASCO","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",47,"União Estável","2 Grau completo","Parda","UNIAO ESTAVEL"
+2018,"01/04/2018",20:55:00,"Sim","OSASCO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",47,"União Estável","2 Grau completo","Parda","UNIAO ESTAVEL"
+2018,"03/04/2018",23:00:00,"Sim","MONTE ALTO","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",37,"União Estável","1 Grau incompleto","Branca","UNIAO ESTAVEL"
+2018,"03/04/2018",23:00:00,"Sim","MONTE ALTO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",37,"União Estável","1 Grau incompleto","Branca","UNIAO ESTAVEL"
+2018,"07/04/2018",NA,"Não","TEODORO SAMPAIO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",32,"Solteiro",NA,"Parda",NA
+2018,"07/04/2018",NA,"Não","TEODORO SAMPAIO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",32,"Solteiro",NA,"Parda",NA
+2018,"07/04/2018",NA,"Não","TEODORO SAMPAIO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",32,"Solteiro",NA,"Parda",NA
+2018,"08/04/2018",23:50:00,"Não","VARZEA PAULISTA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",30,"Ignorado",NA,"Branca",NA
+2018,"08/04/2018",22:20:00,"Sim","PITANGUEIRAS","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",38,"União Estável","1 Grau incompleto","Parda","UNIAO ESTAVEL"
+2018,"08/04/2018",22:20:00,"Sim","PITANGUEIRAS","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",38,"União Estável","1 Grau incompleto","Parda","UNIAO ESTAVEL"
+2018,"08/04/2018",22:20:00,"Sim","PITANGUEIRAS","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",38,"União Estável","1 Grau incompleto","Parda","UNIAO ESTAVEL"
+2018,"09/04/2018",14:30:00,"Não","ARARAQUARA","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",32,NA,NA,"Parda","ENVOLVIMENTO AMOROSO"
+2018,"09/04/2018",14:30:00,"Não","ARARAQUARA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",32,NA,NA,"Parda","ENVOLVIMENTO AMOROSO"
+2018,"09/04/2018",14:30:00,"Não","ARARAQUARA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",32,NA,NA,"Parda","ENVOLVIMENTO AMOROSO"
+2018,"09/04/2018",14:30:00,"Não","ARARAQUARA","SP","Residência","Lesão corporal (art. 129)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2018,"10/04/2018",12:00:00,"Sim","ATIBAIA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",54,"União Estável","2 Grau incompleto","Branca","UNIAO ESTAVEL"
+2018,"12/04/2018",12:53:00,"Sim","S.PAULO","SP","Residência","Violência Doméstica","Consumado",NA,NA,NA,NA,NA,NA,NA
+2018,"12/04/2018",12:53:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Tentado",NA,NA,NA,NA,NA,NA,NA
+2018,"12/04/2018",12:53:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Tentado",NA,NA,NA,NA,NA,NA,NA
+2018,"12/04/2018",12:53:00,"Sim","S.PAULO","SP","Residência","Incêndio (art. 250, caput)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2018,"14/04/2018",15:49:00,"Sim","S.ANDRE","SP","Via pública","Violência Doméstica","Consumado","Sim","Feminino",41,"Casado",NA,"Parda","CASAMENTO"
+2018,"14/04/2018",15:49:00,"Sim","S.ANDRE","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",41,"Casado",NA,"Parda","CASAMENTO"
+2018,"28/04/2018",23:00:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",17,"Solteiro",NA,"Parda",NA
+2018,"28/04/2018",23:00:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",17,"Solteiro",NA,"Parda",NA
+2018,"29/04/2018",15:07:00,"Não","GUAIRA","SP","Via pública","Suicídio consumado","Consumado","Sim","Masculino",60,"Casado",NA,"Branca",NA
+2018,"29/04/2018",15:07:00,"Não","GUAIRA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",60,"Casado",NA,"Branca",NA
+2018,"29/04/2018",15:07:00,"Não","GUAIRA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",44,"Casado","1 Grau incompleto","Branca",NA
+2018,"29/04/2018",23:00:00,"Não","TIETE","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",28,"Casado","1 Grau completo","Branca",NA
+2018,"30/04/2018",15:15:00,"Não","GUARULHOS","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",32,"Solteiro","1 Grau completo","Parda",NA
+2018,"30/04/2018",15:15:00,"Não","GUARULHOS","SP","Via pública","Homicídio simples (art. 121)","Tentado",NA,NA,NA,NA,NA,NA,NA
+2018,"07/05/2018",13:00:00,"Não","ITAQUAQUECETUBA","SP","Via pública","Violência Doméstica","Consumado","Sim","Feminino",27,"União Estável",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2018,"07/05/2018",13:00:00,"Não","ITAQUAQUECETUBA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",27,"União Estável",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2018,"08/05/2018",11:13:00,"Sim","PRESIDENTE VENCESLAU","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",60,"Casado",NA,"Parda","CASAMENTO"
+2018,"08/05/2018",11:13:00,"Sim","PRESIDENTE VENCESLAU","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",60,"Casado",NA,"Parda","CASAMENTO"
+2018,"08/05/2018",11:13:00,"Sim","PRESIDENTE VENCESLAU","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",60,"Casado",NA,"Parda","CASAMENTO"
+2018,"08/05/2018",20:11:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",54,"Solteiro",NA,"Branca",NA
+2018,"12/05/2018",NA,"Não","MOGI DAS CRUZES","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",30,"Ignorado",NA,"Branca",NA
+2018,"12/05/2018",NA,"Sim","CARAPICUIBA","SP","Residência","Suicídio tentado","Tentado",NA,NA,NA,NA,NA,NA,NA
+2018,"12/05/2018",NA,"Sim","CARAPICUIBA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",25,"Solteiro",NA,"Branca",NA
+2018,"13/05/2018",09:00:00,"Não","SANTANA DE PARNAIBA","SP","Via pública","Suicídio consumado","Consumado","Sim","Masculino",45,"Ignorado",NA,"Parda","CASAMENTO"
+2018,"13/05/2018",09:00:00,"Não","SANTANA DE PARNAIBA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",45,"Ignorado",NA,"Parda","CASAMENTO"
+2018,"13/05/2018",09:00:00,"Não","SANTANA DE PARNAIBA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",44,"Casado","Superior completo","Parda","CASAMENTO"
+2018,"14/05/2018",NA,"Sim","OSASCO","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",62,"Solteiro",NA,"Parda","PARENTESCO"
+2018,"14/05/2018",NA,"Sim","OSASCO","SP","Residência","Localização/Apreensão de objeto","Consumado","Sim","Feminino",62,"Solteiro",NA,"Parda","PARENTESCO"
+2018,"14/05/2018",NA,"Sim","OSASCO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",62,"Solteiro",NA,"Parda","PARENTESCO"
+2018,"17/05/2018",07:13:00,"Sim","VOTORANTIM","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",24,"Solteiro",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2018,"17/05/2018",07:13:00,"Sim","VOTORANTIM","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",24,"Solteiro",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2018,"17/05/2018",16:30:00,"Não","GUARULHOS","SP","Restaurante e afins","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",25,"Solteiro",NA,"Branca",NA
+2018,"18/05/2018",15:30:00,"Sim","CORDEIROPOLIS","SP","Comércio e serviços","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",47,"Casado",NA,"Branca","CASAMENTO"
+2018,"18/05/2018",15:30:00,"Sim","CORDEIROPOLIS","SP","Comércio e serviços","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",47,"Casado",NA,"Branca","CASAMENTO"
+2018,"18/05/2018",15:30:00,"Sim","CORDEIROPOLIS","SP","Comércio e serviços","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",47,"Casado",NA,"Branca","CASAMENTO"
+2018,"17/05/2018",18:37:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",34,"Solteiro","Superior completo","Branca",NA
+2018,"17/05/2018",18:37:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",34,"Solteiro","Superior completo","Branca",NA
+2018,"22/05/2018",14:48:00,"Sim","JALES","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",24,"Solteiro",NA,"Parda","UNIAO ESTAVEL"
+2018,"22/05/2018",14:48:00,"Sim","JALES","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",24,"Solteiro",NA,"Parda","UNIAO ESTAVEL"
+2018,"22/05/2018",14:48:00,"Sim","JALES","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",24,"Solteiro",NA,"Parda","UNIAO ESTAVEL"
+2018,"22/05/2018",14:48:00,"Sim","JALES","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",24,"Solteiro",NA,"Parda","UNIAO ESTAVEL"
+2018,"22/05/2018",14:48:00,"Sim","JALES","SP","Residência","Lesão corporal (art 129 § 9º)","Consumado","Sim","Feminino",24,"Solteiro",NA,"Parda","UNIAO ESTAVEL"
+2018,"27/05/2018",02:20:00,"Sim","S.PAULO","SP","Via pública","Estrito cumprimento de dever legal (art. 23, III)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2018,"27/05/2018",02:20:00,"Sim","S.PAULO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",54,"Ignorado",NA,"Branca",NA
+2018,"27/05/2018",02:20:00,"Sim","S.PAULO","SP","Via pública","Lesão corporal (art. 129)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2018,"27/05/2018",18:00:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",36,NA,NA,"Parda",NA
+2018,"25/05/2018",22:40:00,"Não","CAMPINAS","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",50,NA,NA,"Branca",NA
+2018,"31/05/2018",18:00:00,"Não","AGUAS DE LINDOIA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",21,NA,NA,"Parda",NA
+2018,"03/06/2018",21:34:00,"Não","COLINA","SP","Residência","Posse ou porte ilegal de arma de fogo de uso restrito (Art. 16)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2018,"03/06/2018",21:34:00,"Não","COLINA","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",34,"Casado","1 Grau completo","Branca","UNIAO ESTAVEL"
+2018,"03/06/2018",21:34:00,"Não","COLINA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",34,"Casado","1 Grau completo","Branca","UNIAO ESTAVEL"
+2018,"03/06/2018",21:34:00,"Não","COLINA","SP","Residência","Homicídio simples (art. 121)","Tentado",NA,NA,NA,NA,NA,NA,NA
+2018,"11/06/2018",05:30:00,"Não","HORTOLANDIA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",30,"Ignorado",NA,"Preta",NA
+2018,"13/06/2018",12:25:00,"Sim","S.PAULO","SP","Saúde","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",26,"Solteiro","1 Grau completo","Parda",NA
+2018,"13/06/2018",12:25:00,"Sim","S.PAULO","SP","Saúde","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",26,"Solteiro","1 Grau completo","Parda",NA
+2018,"13/06/2018",12:25:00,"Sim","S.PAULO","SP","Saúde","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",26,"Solteiro","1 Grau completo","Parda",NA
+2018,"16/06/2018",17:40:00,"Não","JABOTICABAL","SP","Residência","Violência Doméstica","Consumado",NA,NA,NA,NA,NA,NA,NA
+2018,"16/06/2018",17:40:00,"Não","JABOTICABAL","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Tentado",NA,NA,NA,NA,NA,NA,NA
+2018,"25/06/2018",04:11:00,"Sim","BROTAS","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",38,"União Estável",NA,"Branca","UNIAO ESTAVEL"
+2018,"25/06/2018",04:11:00,"Sim","BROTAS","SP","Residência","Aborto provocado por terceiro SEM o consentimento da gestante (art. 125)","Consumado","Sim","Feminino",38,"União Estável",NA,"Branca","UNIAO ESTAVEL"
+2018,"25/06/2018",04:11:00,"Sim","BROTAS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",38,"União Estável",NA,"Branca","UNIAO ESTAVEL"
+2018,"28/06/2018",12:40:00,"Não","ITAPEVI","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",31,"Solteiro","1 Grau incompleto","Parda",NA
+2018,"30/06/2018",23:30:00,"Sim","S.PAULO","SP","Via pública","Posse ou porte ilegal de arma de fogo de uso restrito (Art. 16)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2018,"30/06/2018",23:30:00,"Sim","S.PAULO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",34,"Solteiro",NA,"Parda",NA
+2018,"30/06/2018",23:00:00,"Sim","S.BARBARA D OESTE","SP","Via pública","Violência Doméstica","Consumado","Sim","Feminino",25,"Ignorado",NA,"Branca","UNIAO ESTAVEL"
+2018,"30/06/2018",23:00:00,"Sim","S.BARBARA D OESTE","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",25,"Ignorado",NA,"Branca","UNIAO ESTAVEL"
+2018,"30/06/2018",23:00:00,"Sim","S.BARBARA D OESTE","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",25,"Ignorado",NA,"Branca","UNIAO ESTAVEL"
+2018,"01/07/2018",15:40:00,"Sim","ITUVERAVA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",49,"União Estável","1 Grau completo","Branca","UNIAO ESTAVEL"
+2018,"01/07/2018",15:40:00,"Sim","ITUVERAVA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",49,"União Estável","1 Grau completo","Branca","UNIAO ESTAVEL"
+2018,"01/07/2018",15:40:00,"Sim","ITUVERAVA","SP","Residência","Lesão corporal (art. 129)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2018,"03/07/2018",16:18:00,"Sim","GUARULHOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",68,"Casado",NA,"Branca",NA
+2018,"04/07/2018",18:50:00,"Sim","MAUA","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",15,"Solteiro","1 Grau completo","Branca","ENVOLVIMENTO AMOROSO"
+2018,"04/07/2018",18:50:00,"Sim","MAUA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",15,"Solteiro","1 Grau completo","Branca","ENVOLVIMENTO AMOROSO"
+2018,"08/07/2018",07:11:00,"Não","CAMPINAS","SP","Residência","Suicídio consumado","Consumado","Sim","Masculino",27,"Solteiro",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2018,"08/07/2018",07:11:00,"Não","CAMPINAS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",25,"Ignorado","Superior incompleto","Branca","ENVOLVIMENTO AMOROSO"
+2018,"08/07/2018",07:11:00,"Não","CAMPINAS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",27,"Solteiro",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2018,"11/07/2018",14:00:00,"Não","VARGEM GRANDE PAULISTA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",33,NA,NA,"Parda",NA
+2018,"11/07/2018",21:37:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",44,"Casado","Superior completo","Branca","CASAMENTO"
+2018,"11/07/2018",21:37:00,"Sim","S.PAULO","SP","Residência","Homicídio simples (art. 121)","Consumado","Sim","Feminino",3,"Solteiro",NA,"Branca",NA
+2018,"13/07/2018",07:10:00,"Não","SALTO","SP","Residência","Suicídio consumado","Consumado","Sim","Masculino",42,"Solteiro","2 Grau completo","Parda","UNIAO ESTAVEL"
+2018,"13/07/2018",07:10:00,"Não","SALTO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",38,"Solteiro","2 Grau completo","Branca","UNIAO ESTAVEL"
+2018,"19/07/2018",21:30:00,"Sim","BAURU","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",36,"Solteiro","2 Grau completo","Branca",NA
+2018,"19/07/2018",21:30:00,"Sim","BAURU","SP","Residência","Homicídio simples (art. 121)","Tentado",NA,NA,NA,NA,NA,NA,NA
+2018,"20/07/2018",19:10:00,"Não","SANTANA DE PARNAIBA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",42,NA,NA,"Branca",NA
+2018,"29/07/2018",00:29:00,"Sim","S.ROQUE","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",53,"Casado",NA,"Branca",NA
+2018,"29/07/2018",12:49:00,"Não","GUARULHOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",24,"União Estável","2 Grau completo","Parda",NA
+2018,"29/07/2018",19:58:00,"Não","S.JOSE DO RIO PRETO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",41,"Casado","2 Grau completo","Branca",NA
+2018,"09/08/2018",09:00:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",26,"Solteiro","Superior completo","Parda","UNIAO ESTAVEL"
+2018,"16/08/2018",07:00:00,"Não","CAMPINAS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",31,"União Estável","1 Grau completo","Parda",NA
+2018,"19/08/2018",12:16:00,"Não","FRANCA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Tentado",NA,NA,NA,NA,NA,NA,NA
+2018,"23/08/2018",20:20:00,"Sim","MAUA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",38,"Solteiro",NA,"Parda",NA
+2018,"25/08/2018",14:00:00,"Não","S.BERNARDO DO CAMPO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",39,"Solteiro",NA,"Parda",NA
+2018,"25/08/2018",14:00:00,"Não","S.BERNARDO DO CAMPO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",39,"Solteiro",NA,"Parda",NA
+2018,"25/08/2018",14:20:00,"Não","S.PAULO","SP","Via pública","Captura de procurado","Consumado",NA,NA,NA,NA,NA,NA,NA
+2018,"25/08/2018",14:20:00,"Não","S.PAULO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",42,"Casado",NA,"Branca",NA
+2018,"28/08/2018",12:20:00,"Sim","CUBATAO","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",26,"Solteiro",NA,"Branca","UNIAO ESTAVEL"
+2018,"28/08/2018",12:20:00,"Sim","CUBATAO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",26,"Solteiro",NA,"Branca","UNIAO ESTAVEL"
+2018,"28/08/2018",20:39:00,"Sim","GUAIRA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",22,"União Estável","Superior completo","Parda","UNIAO ESTAVEL"
+2018,"28/08/2018",20:39:00,"Sim","GUAIRA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",22,"União Estável","Superior completo","Parda","UNIAO ESTAVEL"
+2018,"28/08/2018",20:39:00,"Sim","GUAIRA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",22,"União Estável","Superior completo","Parda","UNIAO ESTAVEL"
+2018,"29/08/2018",19:20:00,"Não","S.JOSE DO RIO PRETO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",27,"Solteiro","2 Grau completo","Branca",NA
+2018,"31/08/2018",12:30:00,"Sim","TUPA","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",44,"Divorciado","1 Grau incompleto","Parda","UNIAO ESTAVEL"
+2018,"31/08/2018",12:30:00,"Sim","TUPA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",44,"Divorciado","1 Grau incompleto","Parda","UNIAO ESTAVEL"
+2018,"31/08/2018",12:30:00,"Sim","TUPA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",44,"Divorciado","1 Grau incompleto","Parda","UNIAO ESTAVEL"
+2018,"31/08/2018",12:30:00,"Sim","TUPA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",44,"Divorciado","1 Grau incompleto","Parda","UNIAO ESTAVEL"
+2018,"06/09/2018",01:30:00,"Não","S.PAULO","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",39,"União Estável","1 Grau completo","Parda","UNIAO ESTAVEL"
+2018,"06/09/2018",01:30:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",39,"União Estável","1 Grau completo","Parda","UNIAO ESTAVEL"
+2018,"06/09/2018",01:30:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Tentado","Sim","Feminino",39,"União Estável","1 Grau completo","Parda","UNIAO ESTAVEL"
+2018,"07/09/2018",12:04:00,"Sim","JANDIRA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",58,NA,NA,"Parda",NA
+2018,"09/09/2018",14:20:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",49,"Casado","1 Grau completo","Parda",NA
+2018,"30/08/2018",12:00:00,"Sim","ITANHAEM","SP","Condominio Residencial","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",35,"Solteiro","1 Grau completo","Parda","ENVOLVIMENTO AMOROSO"
+2018,"11/09/2018",NA,"Não","PINDAMONHANGABA","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",30,"Casado",NA,"Branca","CASAMENTO"
+2018,"11/09/2018",NA,"Não","PINDAMONHANGABA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",30,"Casado",NA,"Branca","CASAMENTO"
+2018,"11/09/2018",NA,"Não","PINDAMONHANGABA","SP","Residência","Induzimento, instigação ou auxílio, SE O SUICÍDIO SE CONSUMA (art. 122)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2018,"13/09/2018",06:38:00,"Não","CAMPINAS","SP","Via pública","Suicídio consumado","Consumado","Sim","Masculino",34,"Solteiro","1 Grau completo","Parda",NA
+2018,"13/09/2018",06:38:00,"Não","CAMPINAS","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Tentado","Sim","Feminino",33,"Casado","Superior completo","Branca",NA
+2018,"13/09/2018",06:38:00,"Não","CAMPINAS","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Tentado","Sim","Masculino",34,"Solteiro","1 Grau completo","Parda",NA
+2018,"13/09/2018",06:38:00,"Não","CAMPINAS","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",33,"Casado","Superior completo","Branca",NA
+2018,"13/09/2018",06:38:00,"Não","CAMPINAS","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",34,"Solteiro","1 Grau completo","Parda",NA
+2018,"13/09/2018",06:38:00,"Não","CAMPINAS","SP","Via pública","Lesão corporal (art. 129)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2018,"13/09/2018",18:00:00,"Sim","S.PAULO","SP","Via pública","Violência Doméstica","Consumado","Sim","Feminino",18,"Solteiro",NA,"Branca","UNIAO ESTAVEL"
+2018,"13/09/2018",18:00:00,"Sim","S.PAULO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",18,"Solteiro",NA,"Branca","UNIAO ESTAVEL"
+2018,"14/09/2018",12:30:00,"Não","CAMPINAS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",24,"Solteiro",NA,"Branca",NA
+2018,"15/09/2018",01:30:00,"Sim","CAPIVARI","SP","Area não ocupada","Violência Doméstica","Consumado","Sim","Feminino",35,"Solteiro","1 Grau completo","Parda","ENVOLVIMENTO AMOROSO"
+2018,"15/09/2018",01:30:00,"Sim","CAPIVARI","SP","Area não ocupada","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",35,"Solteiro","1 Grau completo","Parda","ENVOLVIMENTO AMOROSO"
+2018,"15/09/2018",01:30:00,"Sim","CAPIVARI","SP","Area não ocupada","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",35,"Solteiro","1 Grau completo","Parda","ENVOLVIMENTO AMOROSO"
+2018,"19/09/2018",NA,"Não","PARAGUACU PAULISTA","SP","Residência","Suicídio consumado","Consumado","Sim","Masculino",69,"Casado","1 Grau incompleto","Parda",NA
+2018,"19/09/2018",NA,"Não","PARAGUACU PAULISTA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",69,"Casado","1 Grau incompleto","Parda",NA
+2018,"19/09/2018",NA,"Não","PARAGUACU PAULISTA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",42,"Solteiro","1 Grau completo","Branca",NA
+2018,"22/09/2018",20:30:00,"Não","S.PAULO","SP","Residência","Localização/Apreensão de objeto","Consumado","Sim","Feminino",29,"Solteiro","1 Grau completo","Parda",NA
+2018,"22/09/2018",20:30:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",29,"Solteiro","1 Grau completo","Parda",NA
+2018,"25/09/2018",20:30:00,"Não","S.JOSE DO RIO PRETO","SP","Residência","Suicídio consumado","Consumado","Sim","Masculino",25,"Solteiro","1 Grau incompleto","Branca","ENVOLVIMENTO AMOROSO"
+2018,"25/09/2018",20:30:00,"Não","S.JOSE DO RIO PRETO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",21,"Solteiro","1 Grau completo","Branca","ENVOLVIMENTO AMOROSO"
+2018,"25/09/2018",20:30:00,"Não","S.JOSE DO RIO PRETO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",25,"Solteiro","1 Grau incompleto","Branca","ENVOLVIMENTO AMOROSO"
+2018,"03/10/2018",NA,"Não","S.ROQUE","SP","Residência","Violência Doméstica","Consumado",NA,NA,NA,NA,NA,NA,NA
+2018,"03/10/2018",NA,"Não","S.ROQUE","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",13,"Solteiro","1 Grau incompleto","Branca","PARENTESCO"
+2018,"03/10/2018",NA,"Não","S.ROQUE","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",13,"Solteiro","1 Grau incompleto","Branca","PARENTESCO"
+2018,"03/10/2018",NA,"Não","S.ROQUE","SP","Residência","Lesão corporal (art 129 § 9º)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2018,"03/10/2018",12:00:00,"Sim","S.PAULO","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",51,"Casado","2 Grau completo","Branca","CASAMENTO"
+2018,"03/10/2018",12:00:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",51,"Casado","2 Grau completo","Branca","CASAMENTO"
+2018,"03/10/2018",18:44:00,"Sim","S.JOSE DOS CAMPOS","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",NA,"Casado",NA,"Amarela","CASAMENTO"
+2018,"03/10/2018",18:44:00,"Sim","S.JOSE DOS CAMPOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",NA,"Casado",NA,"Amarela","CASAMENTO"
+2018,"03/10/2018",18:44:00,"Sim","S.JOSE DOS CAMPOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",NA,"Casado",NA,"Amarela","CASAMENTO"
+2018,"06/10/2018",09:20:00,"Sim","RINCAO","SP","Residência","Posse irregular de arma de fogo de uso permitido (Art.12)","Consumado","Sim","Feminino",85,"Ignorado",NA,"Branca","PARENTESCO"
+2018,"06/10/2018",09:20:00,"Sim","RINCAO","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",85,"Ignorado",NA,"Branca","PARENTESCO"
+2018,"06/10/2018",09:20:00,"Sim","RINCAO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",85,"Ignorado",NA,"Branca","PARENTESCO"
+2018,"06/10/2018",09:20:00,"Sim","RINCAO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",85,"Ignorado",NA,"Branca","PARENTESCO"
+2018,"06/10/2018",08:39:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",45,NA,NA,"Branca",NA
+2018,"06/10/2018",08:39:00,"Sim","S.PAULO","SP","Residência","Homicídio simples (art. 121)","Tentado",NA,NA,NA,NA,NA,NA,NA
+2018,"06/10/2018",08:39:00,"Sim","S.PAULO","SP","Residência","Seqüestro e cárcere privado (art. 148)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2018,"08/10/2018",11:00:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Tentado",NA,NA,NA,NA,NA,NA,NA
+2018,"08/10/2018",11:00:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Tentado",NA,NA,NA,NA,NA,NA,NA
+2018,"10/10/2018",15:23:00,"Sim","S.JOSE DOS CAMPOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",13,"Solteiro",NA,"Branca",NA
+2018,"10/10/2018",15:23:00,"Sim","S.JOSE DOS CAMPOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",35,"Casado",NA,"Branca",NA
+2018,"10/10/2018",15:23:00,"Sim","S.JOSE DOS CAMPOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",13,"Solteiro",NA,"Branca",NA
+2018,"10/10/2018",15:23:00,"Sim","S.JOSE DOS CAMPOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",35,"Casado",NA,"Branca",NA
+2018,"12/10/2018",21:00:00,"Sim","S.PAULO","SP","Via pública","Posse ou porte ilegal de arma de fogo de uso restrito (Art. 16)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2018,"12/10/2018",21:00:00,"Sim","S.PAULO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",35,"Solteiro",NA,"Branca",NA
+2018,"12/10/2018",21:00:00,"Sim","S.PAULO","SP","Via pública","Homicídio simples (art. 121)","Tentado",NA,NA,NA,NA,NA,NA,NA
+2018,"13/10/2018",11:32:00,"Sim","CAFELANDIA","SP","Residência","Ameaça (art. 147)","Consumado",NA,NA,NA,NA,NA,NA,NA
+2018,"13/10/2018",11:32:00,"Sim","CAFELANDIA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",35,"Solteiro",NA,"Branca",NA
+2018,"13/10/2018",11:32:00,"Sim","CAFELANDIA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",35,"Solteiro",NA,"Branca",NA
+2018,"14/10/2018",02:38:00,"Não","GUARULHOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",22,"Solteiro","1 Grau completo","Branca",NA
+2018,"17/10/2018",09:37:00,"Sim","S.JOAO DA BOA VISTA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",34,"Casado",NA,"Branca",NA
+2018,"17/10/2018",09:37:00,"Sim","S.JOAO DA BOA VISTA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",34,"Casado",NA,"Branca",NA
+2018,"17/10/2018",09:37:00,"Sim","S.JOAO DA BOA VISTA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",34,"Casado",NA,"Branca",NA
+2018,"21/10/2018",05:10:00,"Sim","ITAPIRA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",38,"Casado","1 Grau completo","Preta",NA
+2018,"22/10/2018",10:11:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",39,"Divorciado","2 Grau completo","Parda",NA
+2018,"22/10/2018",10:11:00,"Não","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",41,"Solteiro",NA,"Branca",NA
+2018,"22/10/2018",10:11:00,"Não","S.PAULO","SP","Residência","Induzimento, instigação ou auxílio, SE O SUICÍDIO SE CONSUMA (art. 122)","Consumado","Sim","Masculino",41,"Solteiro",NA,"Branca",NA
+2018,"22/10/2018",NA,"Não","AMERICANA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",40,"Ignorado",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2018,"22/10/2018",NA,"Não","AMERICANA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",40,"Ignorado",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2018,"22/10/2018",NA,"Não","AMERICANA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",40,"Ignorado",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2018,"22/10/2018",NA,"Não","AMERICANA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",40,"Ignorado",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2018,"22/10/2018",NA,"Não","AMERICANA","SP","Residência","Destruição, subtração ou ocultação de cadáver (art. 211)","Consumado","Sim","Feminino",40,"Ignorado",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2018,"26/10/2018",12:02:00,"Sim","SOROCABA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",44,"Casado","2 Grau completo","Branca",NA
+2018,"27/10/2018",22:10:00,"Não","SOROCABA","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",17,"Solteiro",NA,"Branca",NA
+2018,"01/11/2018",17:15:00,"Não","CACAPAVA","SP","Residência","Suicídio consumado","Consumado","Sim","Masculino",47,"Casado",NA,"Branca","CASAMENTO"
+2018,"01/11/2018",17:15:00,"Não","CACAPAVA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",44,"Casado",NA,"Branca","CASAMENTO"
+2018,"02/11/2018",18:00:00,"Sim","S.PAULO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",40,NA,NA,"Parda",NA
+2018,"06/11/2018",NA,"Sim","MIRACATU","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",34,"União Estável","1 Grau incompleto","Parda",NA
+2018,"06/11/2018",NA,"Sim","MIRACATU","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",34,"União Estável","1 Grau incompleto","Parda",NA
+2018,"06/11/2018",NA,"Sim","MIRACATU","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",34,"União Estável","1 Grau incompleto","Parda",NA
+2018,"06/11/2018",NA,"Sim","MIRACATU","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",34,"União Estável","1 Grau incompleto","Parda",NA
+2018,"10/11/2018",21:38:00,"Sim","ALVARES MACHADO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",48,"Divorciado",NA,"Parda",NA
+2018,"12/11/2018",09:00:00,"Não","PRESIDENTE PRUDENTE","SP","Residência","Violência Doméstica","Consumado","Sim","Feminino",51,"Ignorado",NA,"Parda","UNIAO ESTAVEL"
+2018,"12/11/2018",09:00:00,"Não","PRESIDENTE PRUDENTE","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",51,"Ignorado",NA,"Parda","UNIAO ESTAVEL"
+2018,"17/11/2018",13:33:00,"Não","OSASCO","SP","Condominio Comercial","Localização/Apreensão de objeto","Consumado","Sim","Feminino",27,"Solteiro",NA,"Parda",NA
+2018,"17/11/2018",13:33:00,"Não","OSASCO","SP","Condominio Comercial","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",27,"Solteiro",NA,"Parda",NA
+2018,"18/11/2018",11:30:00,"Sim","ICEM","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",32,"União Estável",NA,"Branca",NA
+2018,"26/11/2018",08:55:00,"Não","CAMPINAS","SP","Area não ocupada","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",48,"Solteiro","2 Grau completo","Branca",NA
+2018,"17/11/2018",18:30:00,"Não","ITAPIRA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",22,"União Estável",NA,"Parda",NA
+2018,"17/11/2018",18:30:00,"Não","ITAPIRA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",34,"Casado","2 Grau completo","Branca",NA
+2018,"01/12/2018",14:35:00,"Não","DIADEMA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",23,"Solteiro",NA,"Parda",NA
+2018,"02/12/2018",06:51:00,"Não","S.PAULO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",20,"Solteiro",NA,"Parda",NA
+2018,"04/12/2018",07:00:00,"Sim","FERRAZ DE VASCONCELOS","SP","Residência","Descumprimento de medida protetiva de urgência (art. 24-A)","Consumado","Sim","Feminino",31,"Casado","2 Grau incompleto","Branca",NA
+2018,"04/12/2018",07:00:00,"Sim","FERRAZ DE VASCONCELOS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",31,"Casado","2 Grau incompleto","Branca",NA
+2018,"04/12/2018",17:24:00,"Não","JAU","SP","Unidade rural","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",22,NA,NA,"Branca",NA
+2018,"30/11/2018",23:30:00,"Não","VERA CRUZ","SP","Residência","Suicídio consumado","Consumado","Sim","Feminino",18,"Solteiro",NA,"Parda","ENVOLVIMENTO AMOROSO"
+2018,"30/11/2018",23:30:00,"Não","VERA CRUZ","SP","Residência","Suicídio consumado","Consumado","Sim","Masculino",30,"Solteiro","1 Grau completo","Parda","ENVOLVIMENTO AMOROSO"
+2018,"30/11/2018",23:30:00,"Não","VERA CRUZ","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",18,"Solteiro",NA,"Parda","ENVOLVIMENTO AMOROSO"
+2018,"30/11/2018",23:30:00,"Não","VERA CRUZ","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",30,"Solteiro","1 Grau completo","Parda","ENVOLVIMENTO AMOROSO"
+2018,"30/11/2018",23:30:00,"Não","VERA CRUZ","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",18,"Solteiro",NA,"Parda","ENVOLVIMENTO AMOROSO"
+2018,"30/11/2018",23:30:00,"Não","VERA CRUZ","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Masculino",30,"Solteiro","1 Grau completo","Parda","ENVOLVIMENTO AMOROSO"
+2018,"04/12/2018",18:00:00,"Sim","S.PAULO","SP","Comércio e serviços","Violência Doméstica","Consumado","Sim","Feminino",21,"Solteiro","2 Grau incompleto","Parda","UNIAO ESTAVEL"
+2018,"04/12/2018",18:00:00,"Sim","S.PAULO","SP","Comércio e serviços","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",21,"Solteiro","2 Grau incompleto","Parda","UNIAO ESTAVEL"
+2018,"12/12/2018",10:50:00,"Sim","OSASCO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",51,"Casado",NA,"Parda","CASAMENTO"
+2018,"12/12/2018",10:50:00,"Sim","OSASCO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",51,"Casado",NA,"Parda","CASAMENTO"
+2018,"16/12/2018",23:20:00,"Não","RIBEIRAO PRETO","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",33,"Casado","2 Grau completo","Branca",NA
+2018,"17/12/2018",08:00:00,"Não","CAMPINAS","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",41,"Solteiro","2 Grau completo","Branca",NA
+2018,"25/12/2018",21:23:00,"Não","VOTUPORANGA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",29,"União Estável","1 Grau completo","Branca",NA
+2018,"25/12/2018",21:23:00,"Não","VOTUPORANGA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",29,"União Estável","1 Grau completo","Branca",NA
+2018,"25/12/2018",21:23:00,"Não","VOTUPORANGA","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",29,"União Estável","1 Grau completo","Branca",NA
+2018,"24/12/2018",16:30:00,"Não","RIBEIRAO PIRES","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",51,"Divorciado","Superior completo","Branca",NA
+2018,"26/12/2018",19:39:00,"Não","CAMPINAS","SP","Residência","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",40,"Casado",NA,"Branca","ENVOLVIMENTO AMOROSO"
+2018,"29/12/2018",16:00:00,"Não","BEBEDOURO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Tentado",NA,NA,NA,NA,NA,NA,NA
+2018,"29/12/2018",16:00:00,"Não","BEBEDOURO","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Tentado",NA,NA,NA,NA,NA,NA,NA
+2018,"29/12/2018",22:30:00,"Sim","S.PAULO","SP","Favela","Violência Doméstica","Consumado","Sim","Feminino",28,"União Estável",NA,"Branca","UNIAO ESTAVEL"
+2018,"29/12/2018",22:30:00,"Sim","S.PAULO","SP","Favela","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",28,"União Estável",NA,"Branca","UNIAO ESTAVEL"
+2018,"29/12/2018",22:30:00,"Sim","S.PAULO","SP","Favela","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",28,"União Estável",NA,"Branca","UNIAO ESTAVEL"
+2018,"31/12/2018",15:30:00,"Não","BAURU","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",37,"Casado","2 Grau completo","Branca",NA
+2018,"31/12/2018",15:30:00,"Não","BAURU","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",37,"Casado","2 Grau completo","Branca",NA
+2018,"31/12/2018",15:30:00,"Não","BAURU","SP","Via pública","Homicídio qualificado (art. 121, §2o.)","Consumado","Sim","Feminino",37,"Casado","2 Grau completo","Branca",NA
